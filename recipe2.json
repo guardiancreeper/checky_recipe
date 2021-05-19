@@ -1,0 +1,6552 @@
+{
+ "Maddox Batphone":{
+  "Maddox Batphone":{
+   "Enchanted Cobblestone":70,
+   "Redstone Minion VIII":1,
+   "Maddox's Phone Number":1
+  }
+ },
+ "Acacia Door":{
+  "Acacia Door":{
+   "Acacia Wood Planks":6
+  }
+ },
+ "Acacia Fence":{
+  "Acacia Fence":{
+   "Acacia Wood Planks":4,
+   "Stick":2
+  }
+ },
+ "Acacia Fence Gate":{
+  "Acacia Fence Gate":{
+   "Stick":4,
+   "Acacia Wood Planks":2
+  }
+ },
+ "Acacia Minion I":{
+  "Acacia Minion I":{
+   "Acacia Wood":80,
+   "Wooden Axe":1
+  }
+ },
+ "Acacia Wood Stairs":{
+  "Acacia Wood Stairs":{
+   "Acacia Wood Planks":6
+  }
+ },
+ "Activator Rail":{
+  "Activator Rail":{
+   "Iron Ingot":6,
+   "Stick":2,
+   "Redstone Torch":1
+  }
+ },
+ "Enchanted Book":{
+  "Enchanted Book":{
+   "Paper":24,
+   "Enchanted Spider Eye":8
+  }
+ },
+ "All Skills Exp Super-Boost":{
+  "All Skills Exp Super-Boost":{
+   "Enchanted Gold Block":18,
+   "All Skills Exp Boost":1,
+   "Zog Anvil":1
+  }
+ },
+ "Angler Boots":{
+  "Angler Boots":{
+   "Raw Fish":4
+  }
+ },
+ "Angler Chestplate":{
+  "Angler Chestplate":{
+   "Raw Fish":8
+  }
+ },
+ "Angler Helmet":{
+  "Angler Helmet":{
+   "Raw Fish":5
+  }
+ },
+ "Angler Leggings":{
+  "Angler Leggings":{
+   "Raw Fish":7
+  }
+ },
+ "Anvil":{
+  "Anvil":{
+   "Block of Iron":3,
+   "Iron Ingot":4
+  }
+ },
+ "Armor of Magma Boots":{
+  "Armor of Magma Boots":{
+   "Enchanted Magma Cream":48
+  }
+ },
+ "Armor of Magma Chestplate":{
+  "Armor of Magma Chestplate":{
+   "Enchanted Magma Cream":96
+  }
+ },
+ "Armor of Magma Helmet":{
+  "Armor of Magma Helmet":{
+   "Enchanted Magma Cream":60
+  }
+ },
+ "Armor of Magma Leggings":{
+  "Armor of Magma Leggings":{
+   "Enchanted Magma Cream":84
+  }
+ },
+ "Armor Stand":{
+  "Armor Stand":{
+   "Stick":6,
+   "Stone Slab":1
+  }
+ },
+ "Arrow":{
+  "Arrow":{
+   "Flint":1,
+   "Stick":1,
+   "Feather":1
+  }
+ },
+ "Potion Affinity Artifact":{
+  "Potion Affinity Artifact":{
+   "Enchanted Nether Wart":256,
+   "Potion Affinity Ring":1
+  }
+ },
+ "Aspect of the End":{
+  "Aspect of the End":{
+   "Enchanted Eye of Ender":32,
+   "Enchanted Diamond":1
+  }
+ },
+ "Aspect of the Jerry":{
+  "Aspect of the Jerry":{
+   "Move Jerry":2,
+   "Stick":1
+  }
+ },
+ "Astraea":{
+  "Astraea":{
+   "Jolly Pink Rock":8,
+   "Necron's Blade (Unrefined)":1
+  }
+ },
+ "Auger Rod":{
+  "Auger Rod":{
+   "Yeti Rod":1,
+   "Enchanted Packed Ice":128
+  }
+ },
+ "Auto Smelter":{
+  "Auto Smelter":{
+   "Cobblestone":64,
+   "Coal":1
+  }
+ },
+ "Bait Ring":{
+  "Bait Ring":{
+   "Enchanted Ink Sack":288
+  }
+ },
+ "Red Banner":{
+  "Red Banner":{
+   "Red Wool":6,
+   "Stick":1
+  }
+ },
+ "Lime Banner":{
+  "Lime Banner":{
+   "Lime Wool":6,
+   "Stick":1
+  }
+ },
+ "Yellow Banner":{
+  "Yellow Banner":{
+   "Yellow Wool":6,
+   "Stick":1
+  }
+ },
+ "Light Blue Banner":{
+  "Light Blue Banner":{
+   "Light Blue Wool":6,
+   "Stick":1
+  }
+ },
+ "Magenta Banner":{
+  "Magenta Banner":{
+   "Magenta Wool":6,
+   "Stick":1
+  }
+ },
+ "Orange Banner":{
+  "Orange Banner":{
+   "Orange Wool":6,
+   "Stick":1
+  }
+ },
+ "White Banner":{
+  "White Banner":{
+   "Wool":6,
+   "Stick":1
+  }
+ },
+ "Green Banner":{
+  "Green Banner":{
+   "Green Wool":6,
+   "Stick":1
+  }
+ },
+ "Brown Banner":{
+  "Brown Banner":{
+   "Brown Wool":6,
+   "Stick":1
+  }
+ },
+ "Blue Banner":{
+  "Blue Banner":{
+   "Blue Wool":6,
+   "Stick":1
+  }
+ },
+ "Purple Banner":{
+  "Purple Banner":{
+   "Purple Wool":6,
+   "Stick":1
+  }
+ },
+ "Cyan Banner":{
+  "Cyan Banner":{
+   "Cyan Wool":6,
+   "Stick":1
+  }
+ },
+ "Light Gray Banner":{
+  "Light Gray Banner":{
+   "Light Gray Wool":6,
+   "Stick":1
+  }
+ },
+ "Gray Banner":{
+  "Gray Banner":{
+   "Gray Wool":6,
+   "Stick":1
+  }
+ },
+ "Pink Banner":{
+  "Pink Banner":{
+   "Pink Wool":6,
+   "Stick":1
+  }
+ },
+ "Black Banner":{
+  "Black Banner":{
+   "Black Wool":6,
+   "Stick":1
+  }
+ },
+ "Base Griffin Upgrade Stone":{
+  "Base Griffin Upgrade Stone":{
+   "Griffin Feather":8,
+   "Enchanted Gold":16,
+   "Enchanted Cobblestone":8
+  }
+ },
+ "[Lvl {LVL}] Bat":{
+  "[Lvl {LVL}] Bat":{
+   "Enchanted Brown Mushroom":64,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Bat Person Artifact":{
+  "Bat Person Artifact":{
+   "Spooky Shard":16,
+   "Ectoplasm":128,
+   "Bat Person Ring":1
+  }
+ },
+ "Bat Person Boots":{
+  "Bat Person Boots":{
+   "Spooky Shard":4,
+   "Spooky Boots":1
+  }
+ },
+ "Bat Person Chestplate":{
+  "Bat Person Chestplate":{
+   "Spooky Shard":8,
+   "Spooky Chestplate":1
+  }
+ },
+ "Bat Person Helmet":{
+  "Bat Person Helmet":{
+   "Spooky Shard":5,
+   "Spooky Helmet":1
+  }
+ },
+ "Bat Person Leggings":{
+  "Bat Person Leggings":{
+   "Spooky Shard":7,
+   "Spooky Leggings":1
+  }
+ },
+ "Bat Person Ring":{
+  "Bat Person Ring":{
+   "Spooky Shard":4,
+   "Ectoplasm":32,
+   "Bat Person Talisman":1
+  }
+ },
+ "Spirit Sceptre":{
+  "Spirit Sceptre":{
+   "Spirit Wing":3,
+   "Enchanted Lapis Block":6
+  }
+ },
+ "Beacon":{
+  "Beacon":{
+   "Glass":5,
+   "Nether Star":1,
+   "Obsidian":3
+  }
+ },
+ "Bed":{
+  "Bed":{
+   "Wool":3,
+   "Oak Wood Planks":3
+  }
+ },
+ "Bigger Teeth":{
+  "Bigger Teeth":{
+   "Enchanted Gold Block":18,
+   "Big Teeth":1,
+   "Zog Anvil":1
+  }
+ },
+ "Birch Door":{
+  "Birch Door":{
+   "Birch Wood Planks":6
+  }
+ },
+ "Birch Fence":{
+  "Birch Fence":{
+   "Birch Wood Planks":4,
+   "Stick":2
+  }
+ },
+ "Birch Fence Gate":{
+  "Birch Fence Gate":{
+   "Stick":4,
+   "Birch Wood Planks":2
+  }
+ },
+ "Birch Forest Biome Stick":{
+  "Birch Forest Biome Stick":{
+   "Birch Leaves":64,
+   "Stick":2
+  }
+ },
+ "Birch Minion I":{
+  "Birch Minion I":{
+   "Birch Wood":80,
+   "Wooden Axe":1
+  }
+ },
+ "Birch Wood Stairs":{
+  "Birch Wood Stairs":{
+   "Birch Wood Planks":6
+  }
+ },
+ "[Lvl {LVL}] Blaze":{
+  "[Lvl {LVL}] Blaze":{
+   "Enchanted Blaze Rod":64,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Blaze Boots":{
+  "Blaze Boots":{
+   "Enchanted Blaze Rod":4
+  }
+ },
+ "Blaze Chestplate":{
+  "Blaze Chestplate":{
+   "Enchanted Blaze Rod":8
+  }
+ },
+ "Blaze Minion I":{
+  "Blaze Minion I":{
+   "Blaze Rod":80,
+   "Wooden Sword":1
+  }
+ },
+ "Blaze Helmet":{
+  "Blaze Helmet":{
+   "Enchanted Blaze Rod":5
+  }
+ },
+ "Blaze Leggings":{
+  "Blaze Leggings":{
+   "Enchanted Blaze Rod":7
+  }
+ },
+ "Blaze Powder":{
+  "Blaze Powder":{
+   "Blaze Rod":1
+  }
+ },
+ "Blessed Bait":{
+  "Blessed Bait":{
+   "Block of Gold":1,
+   "Raw Fish":1,
+   "Prismarine Crystals":1
+  }
+ },
+ "Blobfish Hat":{
+  "Blobfish Hat":{
+   "Lily Pad":5,
+   "Clay":4
+  }
+ },
+ "Boat":{
+  "Boat":{
+   "Oak Wood Planks":5
+  }
+ },
+ "Bonemerang":{
+  "Bonemerang":{
+   "Enchanted String":15,
+   "Enchanted Bone Block":10,
+   "Spirit Bone":5
+  }
+ },
+ "Book":{
+  "Book":{
+   "Paper":3,
+   "Leather":1
+  }
+ },
+ "Bookshelf":{
+  "Bookshelf":{
+   "Oak Wood Planks":6,
+   "Book":3
+  }
+ },
+ "Book and Quill":{
+  "Book and Quill":{
+   "Book":1,
+   "Ink Sac":1,
+   "Feather":1
+  }
+ },
+ "Bow":{
+  "Bow":{
+   "Stick":3,
+   "String":3
+  }
+ },
+ "Bowl":{
+  "Bowl":{
+   "Oak Wood Planks":3
+  }
+ },
+ "Bread":{
+  "Bread":{
+   "Wheat":3
+  }
+ },
+ "Brewing Stand":{
+  "Brewing Stand":{
+   "Blaze Rod":1,
+   "Cobblestone":3
+  }
+ },
+ "Bricks":{
+  "Bricks":{
+   "Brick":4
+  }
+ },
+ "Brick Stairs":{
+  "Brick Stairs":{
+   "Bricks":6
+  }
+ },
+ "Bridge Egg":{
+  "Bridge Egg":{
+   "Stone":8,
+   "Egg":5
+  }
+ },
+ "Bucket":{
+  "Bucket":{
+   "Iron Ingot":3
+  }
+ },
+ "Budget Hopper":{
+  "Budget Hopper":{
+   "Enchanted Iron":5,
+   "Chest":1
+  }
+ },
+ "Cactus Boots":{
+  "Cactus Boots":{
+   "Cactus":4
+  }
+ },
+ "Cactus Chestplate":{
+  "Cactus Chestplate":{
+   "Cactus":8
+  }
+ },
+ "Cactus Minion I":{
+  "Cactus Minion I":{
+   "Cactus":128,
+   "Wooden Hoe":1
+  }
+ },
+ "Cactus Helmet":{
+  "Cactus Helmet":{
+   "Cactus":5
+  }
+ },
+ "Cactus Leggings":{
+  "Cactus Leggings":{
+   "Cactus":7
+  }
+ },
+ "Cake":{
+  "Cake":{
+   "Milk":3,
+   "Sugar":2,
+   "Egg":1,
+   "Wheat":3
+  }
+ },
+ "Carpentry Table":{
+  "Carpentry Table":{
+   "Oak Wood Planks":10,
+   "Crafting Table":2,
+   "Stick":4
+  }
+ },
+ "Orange Carpet":{
+  "Orange Carpet":{
+   "Orange Wool":2
+  }
+ },
+ "Purple Carpet":{
+  "Purple Carpet":{
+   "Purple Wool":2
+  }
+ },
+ "Blue Carpet":{
+  "Blue Carpet":{
+   "Blue Wool":2
+  }
+ },
+ "Brown Carpet":{
+  "Brown Carpet":{
+   "Brown Wool":2
+  }
+ },
+ "Green Carpet":{
+  "Green Carpet":{
+   "Green Wool":2
+  }
+ },
+ "Red Carpet":{
+  "Red Carpet":{
+   "Red Wool":2
+  }
+ },
+ "Black Carpet":{
+  "Black Carpet":{
+   "Black Wool":2
+  }
+ },
+ "Magenta Carpet":{
+  "Magenta Carpet":{
+   "Magenta Wool":2
+  }
+ },
+ "Light Blue Carpet":{
+  "Light Blue Carpet":{
+   "Light Blue Wool":2
+  }
+ },
+ "Yellow Carpet":{
+  "Yellow Carpet":{
+   "Yellow Wool":2
+  }
+ },
+ "Lime Carpet":{
+  "Lime Carpet":{
+   "Lime Wool":2
+  }
+ },
+ "Pink Carpet":{
+  "Pink Carpet":{
+   "Pink Wool":2
+  }
+ },
+ "Gray Carpet":{
+  "Gray Carpet":{
+   "Gray Wool":2
+  }
+ },
+ "Light Gray Carpet":{
+  "Light Gray Carpet":{
+   "Light Gray Wool":2
+  }
+ },
+ "Cyan Carpet":{
+  "Cyan Carpet":{
+   "Cyan Wool":2
+  }
+ },
+ "Carpet":{
+  "Carpet":{
+   "Wool":2
+  }
+ },
+ "Carrot Bait":{
+  "Carrot Bait":{
+   "Carrot":1,
+   "Raw Fish":1
+  }
+ },
+ "Carrot Minion I":{
+  "Carrot Minion I":{
+   "Carrot":128,
+   "Wooden Hoe":1
+  }
+ },
+ "Carrot on a Stick":{
+  "Carrot on a Stick":{
+   "Fishing Rod":1,
+   "Carrot":1
+  }
+ },
+ "Catalyst":{
+  "Catalyst":{
+   "End Stone":8,
+   "Crystal Fragment":1
+  }
+ },
+ "Cauldron":{
+  "Cauldron":{
+   "Iron Ingot":7
+  }
+ },
+ "Cave Spider Minion I":{
+  "Cave Spider Minion I":{
+   "Spider Eye":80,
+   "Wooden Sword":1
+  }
+ },
+ "Challenging Rod":{
+  "Challenging Rod":{
+   "Lily Pad":512,
+   "Fishing Rod":1
+  }
+ },
+ "Rod of Champions":{
+  "Rod of Champions":{
+   "Enchanted Lily Pad":8,
+   "Challenging Rod":1
+  }
+ },
+ "Chest":{
+  "Chest":{
+   "Oak Wood Planks":8
+  }
+ },
+ "[Lvl {LVL}] Chicken":{
+  "[Lvl {LVL}] Chicken":{
+   "Enchanted Raw Chicken":64,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Chicken Minion I":{
+  "Chicken Minion I":{
+   "Raw Chicken":64,
+   "Wooden Sword":1
+  }
+ },
+ "Chicken Head":{
+  "Chicken Head":{
+   "Egg":5
+  }
+ },
+ "Clay":{
+  "Clay":{
+   "Clay":4
+  }
+ },
+ "Clay Minion I":{
+  "Clay Minion I":{
+   "Clay":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Cleaver":{
+  "Cleaver":{
+   "Gold Ingot":4,
+   "Stick":2
+  }
+ },
+ "Clownfish Hat":{
+  "Clownfish Hat":{
+   "Clownfish":8
+  }
+ },
+ "Coal":{
+  "Coal":{
+   "Block of Coal":1
+  }
+ },
+ "Block of Coal":{
+  "Block of Coal":{
+   "Coal":9
+  }
+ },
+ "Coal Minion I":{
+  "Coal Minion I":{
+   "Coal":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Cobblestone Minion I":{
+  "Cobblestone Minion I":{
+   "Cobblestone":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Cobblestone Stairs":{
+  "Cobblestone Stairs":{
+   "Cobblestone":6
+  }
+ },
+ "Mossy Cobblestone Wall":{
+  "Mossy Cobblestone Wall":{
+   "Moss Stone":6
+  }
+ },
+ "Cobblestone Wall":{
+  "Cobblestone Wall":{
+   "Cobblestone":6
+  }
+ },
+ "Cocoa Beans Minion I":{
+  "Cocoa Beans Minion I":{
+   "Cocoa Beans":80,
+   "Wooden Hoe":1
+  }
+ },
+ "Talisman of Coins":{
+  "Talisman of Coins":{
+   "Emerald":20,
+   "Gold Ingot":5
+  }
+ },
+ "Colossal Experience Bottle":{
+  "Colossal Experience Bottle":{
+   "Colossal Experience Bottle Upgrade":1,
+   "Titanic Experience Bottle":1
+  }
+ },
+ "Compactor":{
+  "Compactor":{
+   "Enchanted Cobblestone":7,
+   "Enchanted Redstone":1
+  }
+ },
+ "Compass":{
+  "Compass":{
+   "Iron Ingot":4,
+   "Redstone":1
+  }
+ },
+ "Cookie":{
+  "Cookie":{
+   "Wheat":2,
+   "Cocoa Beans":1
+  }
+ },
+ "Cow Minion I":{
+  "Cow Minion I":{
+   "Raw Beef":64,
+   "Wooden Sword":1
+  }
+ },
+ "Cow Head":{
+  "Cow Head":{
+   "Raw Beef":8
+  }
+ },
+ "Creeper Minion I":{
+  "Creeper Minion I":{
+   "Gunpowder":80,
+   "Wooden Sword":1
+  }
+ },
+ "Creeper Hat":{
+  "Creeper Hat":{
+   "Gunpowder":8
+  }
+ },
+ "Creeper Pants":{
+  "Creeper Pants":{
+   "Enchanted Gunpowder":224
+  }
+ },
+ "Crystallized Heart":{
+  "Crystallized Heart":{
+   "Enchanted Diamond":256,
+   "Zombie's Heart":1
+  }
+ },
+ "Crystal Boots":{
+  "Crystal Boots":{
+   "Crystal Fragment":4
+  }
+ },
+ "Crystal Chestplate":{
+  "Crystal Chestplate":{
+   "Crystal Fragment":8
+  }
+ },
+ "Crystal Helmet":{
+  "Crystal Helmet":{
+   "Crystal Fragment":5
+  }
+ },
+ "Crystal Leggings":{
+  "Crystal Leggings":{
+   "Crystal Fragment":7
+  }
+ },
+ "Daedalus Axe":{
+  "Daedalus Axe":{
+   "Enchanted Gold Block":48,
+   "Daedalus Stick":2
+  }
+ },
+ "Portal to Spider's Den":{
+  "Portal to Spider's Den":{
+   "Cobweb":48,
+   "Gravel":80,
+   "Ender Pearl":16
+  }
+ },
+ "Travel Scroll to Spider's Den":{
+  "Travel Scroll to Spider's Den":{
+   "Enchanted Flint":128,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Portal to Blazing Fortress":{
+  "Portal to Blazing Fortress":{
+   "Glowstone":48,
+   "Netherrack":80,
+   "Ender Pearl":16
+  }
+ },
+ "Travel Scroll to Blazing Fortress":{
+  "Travel Scroll to Blazing Fortress":{
+   "Enchanted Glowstone Dust":128,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Portal to The End":{
+  "Portal to The End":{
+   "Obsidian":48,
+   "End Stone":80,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Travel Scroll to the End":{
+  "Travel Scroll to the End":{
+   "Enchanted Obsidian":48,
+   "Enchanted End Stone":80,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Dark Bait":{
+  "Dark Bait":{
+   "Ink Sac":1,
+   "Raw Fish":1
+  }
+ },
+ "Dark Oak Door":{
+  "Dark Oak Door":{
+   "Dark Oak Wood Planks":6
+  }
+ },
+ "Dark Oak Fence":{
+  "Dark Oak Fence":{
+   "Dark Oak Wood Planks":4,
+   "Stick":2
+  }
+ },
+ "Dark Oak Fence Gate":{
+  "Dark Oak Fence Gate":{
+   "Stick":4,
+   "Dark Oak Wood Planks":2
+  }
+ },
+ "Dark Oak Minion I":{
+  "Dark Oak Minion I":{
+   "Dark Oak Wood":80,
+   "Wooden Axe":1
+  }
+ },
+ "Dark Oak Wood Stairs":{
+  "Dark Oak Wood Stairs":{
+   "Dark Oak Wood Planks":6
+  }
+ },
+ "Daylight Sensor":{
+  "Daylight Sensor":{
+   "Glass":3,
+   "Nether Quartz":3,
+   "Oak Wood Slab":3
+  }
+ },
+ "Day Crystal":{
+  "Day Crystal":{
+   "Enchanted Quartz":4,
+   "Enchanted Quartz Block":1
+  }
+ },
+ "Day Saver":{
+  "Day Saver":{
+   "Glass":3,
+   "Nether Quartz":15,
+   "Sunflower":3
+  }
+ },
+ "Deep Ocean Biome Stick":{
+  "Deep Ocean Biome Stick":{
+   "Enchanted Ink Sack":1,
+   "Stick":2
+  }
+ },
+ "Desert Biome Stick":{
+  "Desert Biome Stick":{
+   "Sand":64,
+   "Stick":2
+  }
+ },
+ "Desert Island":{
+  "Desert Island":{
+   "Cactus":10,
+   "Sugar Canes":5,
+   "Sand":30
+  }
+ },
+ "Detector Rail":{
+  "Detector Rail":{
+   "Iron Ingot":6,
+   "Stone Pressure Plate":1,
+   "Redstone":1
+  }
+ },
+ "Devour Ring":{
+  "Devour Ring":{
+   "Enchanted Raw Chicken":2,
+   "Enchanted Raw Salmon":8,
+   "Revenant Viscera":39
+  }
+ },
+ "Diamond":{
+  "Diamond":{
+   "Block of Diamond":1
+  }
+ },
+ "Diamond Axe":{
+  "Diamond Axe":{
+   "Diamond":3,
+   "Stick":2
+  }
+ },
+ "Block of Diamond":{
+  "Block of Diamond":{
+   "Diamond":9
+  }
+ },
+ "Diamond Boots":{
+  "Diamond Boots":{
+   "Diamond":4
+  }
+ },
+ "Diamond Chestplate":{
+  "Diamond Chestplate":{
+   "Diamond":8
+  }
+ },
+ "Diamond Minion I":{
+  "Diamond Minion I":{
+   "Diamond":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Diamond Helmet":{
+  "Diamond Helmet":{
+   "Diamond":5
+  }
+ },
+ "Diamond Hoe":{
+  "Diamond Hoe":{
+   "Diamond":2,
+   "Stick":2
+  }
+ },
+ "Diamond Leggings":{
+  "Diamond Leggings":{
+   "Diamond":7
+  }
+ },
+ "Diamond Pickaxe":{
+  "Diamond Pickaxe":{
+   "Diamond":3,
+   "Stick":2
+  }
+ },
+ "Diamond Shovel":{
+  "Diamond Shovel":{
+   "Diamond":1,
+   "Stick":2
+  }
+ },
+ "Diamond Spreading":{
+  "Diamond Spreading":{
+   "Vines":8,
+   "Enchanted Diamond":1
+  }
+ },
+ "Diamond Sword":{
+  "Diamond Sword":{
+   "Diamond":2,
+   "Stick":1
+  }
+ },
+ "Redstone Repeater":{
+  "Redstone Repeater":{
+   "Redstone Torch":2,
+   "Redstone":1,
+   "Stone":3
+  }
+ },
+ "Coarse Dirt":{
+  "Coarse Dirt":{
+   "Dirt":2,
+   "Gravel":2
+  }
+ },
+ "Dispenser":{
+  "Dispenser":{
+   "Cobblestone":7,
+   "Bow":1,
+   "Redstone":1
+  }
+ },
+ "Diver's Boots":{
+  "Diver's Boots":{
+   "Emperor's Skull":4
+  }
+ },
+ "Diver's Shirt":{
+  "Diver's Shirt":{
+   "Emperor's Skull":8
+  }
+ },
+ "Diver's Mask":{
+  "Diver's Mask":{
+   "Emperor's Skull":5
+  }
+ },
+ "Diver's Trunks":{
+  "Diver's Trunks":{
+   "Emperor's Skull":7
+  }
+ },
+ "Dropper":{
+  "Dropper":{
+   "Cobblestone":7,
+   "Redstone":1
+  }
+ },
+ "Dull Shark Tooth Necklace":{
+  "Dull Shark Tooth Necklace":{
+   "Nurse Shark Tooth":4,
+   "Raggedy Shark Tooth Necklace":1
+  }
+ },
+ "Edible Mace":{
+  "Edible Mace":{
+   "Enchanted Mutton":18,
+   "Golden Tooth":18
+  }
+ },
+ "Ember Boots":{
+  "Ember Boots":{
+   "Ember Fragment":4
+  }
+ },
+ "Ember Chestplate":{
+  "Ember Chestplate":{
+   "Ember Fragment":8
+  }
+ },
+ "Ember Helmet":{
+  "Ember Helmet":{
+   "Ember Fragment":5
+  }
+ },
+ "Ember Leggings":{
+  "Ember Leggings":{
+   "Ember Fragment":7
+  }
+ },
+ "Emerald":{
+  "Emerald":{
+   "Block of Emerald":1
+  }
+ },
+ "Emerald Armor Boots":{
+  "Emerald Armor Boots":{
+   "Enchanted Emerald Block":4
+  }
+ },
+ "Emerald Armor Chestplate":{
+  "Emerald Armor Chestplate":{
+   "Enchanted Emerald Block":8
+  }
+ },
+ "Emerald Armor Helmet":{
+  "Emerald Armor Helmet":{
+   "Enchanted Emerald Block":5
+  }
+ },
+ "Emerald Armor Leggings":{
+  "Emerald Armor Leggings":{
+   "Enchanted Emerald Block":7
+  }
+ },
+ "Emerald Blade":{
+  "Emerald Blade":{
+   "Enchanted Emerald Block":2,
+   "Stick":1
+  }
+ },
+ "Block of Emerald":{
+  "Block of Emerald":{
+   "Emerald":9
+  }
+ },
+ "Emerald Minion I":{
+  "Emerald Minion I":{
+   "Emerald":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Emerald Ring":{
+  "Emerald Ring":{
+   "Enchanted Emerald":32
+  }
+ },
+ "Empty Map":{
+  "Empty Map":{
+   "Paper":8,
+   "Compass":1
+  }
+ },
+ "Enchanted Acacia Wood":{
+  "Enchanted Acacia Wood":{
+   "Acacia Wood":160
+  }
+ },
+ "Enchanted Ancient Claw":{
+  "Enchanted Ancient Claw":{
+   "Ancient Claw":160
+  }
+ },
+ "Enchanted Baked Potato":{
+  "Enchanted Baked Potato":{
+   "Enchanted Potato":160
+  }
+ },
+ "Enchanted Birch Wood":{
+  "Enchanted Birch Wood":{
+   "Birch Wood":160
+  }
+ },
+ "Enchanted Blaze Powder":{
+  "Enchanted Blaze Powder":{
+   "Blaze Rod":160
+  }
+ },
+ "Enchanted Blaze Rod":{
+  "Enchanted Blaze Rod":{
+   "Enchanted Blaze Powder":160
+  }
+ },
+ "Enchanted Bone":{
+  "Enchanted Bone":{
+   "Bone":160
+  }
+ },
+ "Enchanted Bone Block":{
+  "Enchanted Bone Block":{
+   "Enchanted Bone":160
+  }
+ },
+ "Enchanted Bookshelf":{
+  "Enchanted Bookshelf":{
+   "Enchanted Oak Wood":6,
+   "Enchanted Paper":6
+  }
+ },
+ "Enchanted Bread":{
+  "Enchanted Bread":{
+   "Wheat":60
+  }
+ },
+ "Enchanted Brown Mushroom":{
+  "Enchanted Brown Mushroom":{
+   "Mushroom":160
+  }
+ },
+ "Enchanted Cactus":{
+  "Enchanted Cactus":{
+   "Enchanted Cactus Green":160
+  }
+ },
+ "Enchanted Cactus Green":{
+  "Enchanted Cactus Green":{
+   "Cactus Green":160
+  }
+ },
+ "Enchanted Cake":{
+  "Enchanted Cake":{
+   "Milk":3,
+   "Enchanted Sugar":2,
+   "Enchanted Egg":1,
+   "Wheat":3
+  }
+ },
+ "Enchanted Carrot":{
+  "Enchanted Carrot":{
+   "Carrot":160
+  }
+ },
+ "Enchanted Carrot on a Stick":{
+  "Enchanted Carrot on a Stick":{
+   "Stick":3,
+   "Enchanted Carrot":64
+  }
+ },
+ "Enchanted Charcoal":{
+  "Enchanted Charcoal":{
+   "Coal":128,
+   "Oak Wood":32
+  }
+ },
+ "Enchanted Clay":{
+  "Enchanted Clay":{
+   "Clay":160
+  }
+ },
+ "Enchanted Clownfish":{
+  "Enchanted Clownfish":{
+   "Clownfish":160
+  }
+ },
+ "Enchanted Coal":{
+  "Enchanted Coal":{
+   "Coal":160
+  }
+ },
+ "Enchanted Block of Coal":{
+  "Enchanted Block of Coal":{
+   "Enchanted Coal":160
+  }
+ },
+ "Enchanted Cobblestone":{
+  "Enchanted Cobblestone":{
+   "Cobblestone":160
+  }
+ },
+ "Enchanted Cocoa Bean":{
+  "Enchanted Cocoa Bean":{
+   "Cocoa Beans":160
+  }
+ },
+ "Enchanted Cooked Fish":{
+  "Enchanted Cooked Fish":{
+   "Enchanted Raw Fish":160
+  }
+ },
+ "Enchanted Cooked Mutton":{
+  "Enchanted Cooked Mutton":{
+   "Enchanted Mutton":160
+  }
+ },
+ "Enchanted Cooked Salmon":{
+  "Enchanted Cooked Salmon":{
+   "Enchanted Raw Salmon":160
+  }
+ },
+ "Enchanted Cookie":{
+  "Enchanted Cookie":{
+   "Enchanted Cocoa Bean":128,
+   "Wheat":32
+  }
+ },
+ "Enchanted Dandelion":{
+  "Enchanted Dandelion":{
+   "Dandelion":160
+  }
+ },
+ "Enchanted Dark Oak Wood":{
+  "Enchanted Dark Oak Wood":{
+   "Dark Oak Wood":160
+  }
+ },
+ "Enchanted Diamond":{
+  "Enchanted Diamond":{
+   "Diamond":160
+  }
+ },
+ "Enchanted Diamond Block":{
+  "Enchanted Diamond Block":{
+   "Enchanted Diamond":160
+  }
+ },
+ "Enchanted Egg":{
+  "Enchanted Egg":{
+   "Egg":144
+  }
+ },
+ "Enchanted Emerald":{
+  "Enchanted Emerald":{
+   "Emerald":160
+  }
+ },
+ "Enchanted Emerald Block":{
+  "Enchanted Emerald Block":{
+   "Enchanted Emerald":160
+  }
+ },
+ "Enchanted Ender Pearl":{
+  "Enchanted Ender Pearl":{
+   "Ender Pearl":20
+  }
+ },
+ "Enchanted End Stone":{
+  "Enchanted End Stone":{
+   "End Stone":160
+  }
+ },
+ "Enchanted Eye of Ender":{
+  "Enchanted Eye of Ender":{
+   "Blaze Powder":64,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Enchanted Feather":{
+  "Enchanted Feather":{
+   "Feather":160
+  }
+ },
+ "Enchanted Fermented Spider Eye":{
+  "Enchanted Fermented Spider Eye":{
+   "Mushroom":64,
+   "Sugar":64,
+   "Enchanted Spider Eye":64
+  }
+ },
+ "Enchanted Firework Rocket":{
+  "Enchanted Firework Rocket":{
+   "Enchanted Gunpowder":64,
+   "Paper":16
+  }
+ },
+ "Enchanted Flint":{
+  "Enchanted Flint":{
+   "Flint":160
+  }
+ },
+ "Enchanted Ghast Tear":{
+  "Enchanted Ghast Tear":{
+   "Ghast Tear":5
+  }
+ },
+ "Enchanted Glistering Melon":{
+  "Enchanted Glistering Melon":{
+   "Glistering Melon":256
+  }
+ },
+ "Enchanted Glowstone":{
+  "Enchanted Glowstone":{
+   "Enchanted Glowstone Dust":192
+  }
+ },
+ "Enchanted Glowstone Dust":{
+  "Enchanted Glowstone Dust":{
+   "Glowstone Dust":160
+  }
+ },
+ "Enchanted Gold":{
+  "Enchanted Gold":{
+   "Gold Ingot":160
+  }
+ },
+ "Enchanted Golden Carrot":{
+  "Enchanted Golden Carrot":{
+   "Enchanted Carrot":128,
+   "Golden Carrot":32
+  }
+ },
+ "Enchanted Gold Block":{
+  "Enchanted Gold Block":{
+   "Enchanted Gold":160
+  }
+ },
+ "Enchanted Grilled Pork":{
+  "Enchanted Grilled Pork":{
+   "Enchanted Pork":160
+  }
+ },
+ "Enchanted Gunpowder":{
+  "Enchanted Gunpowder":{
+   "Gunpowder":160
+  }
+ },
+ "Enchanted Hay Bale":{
+  "Enchanted Hay Bale":{
+   "Hay Bale":144
+  }
+ },
+ "Enchanted Hopper":{
+  "Enchanted Hopper":{
+   "Enchanted Iron Block":5,
+   "Chest":1
+  }
+ },
+ "Enchanted Brown Mushroom Block":{
+  "Enchanted Brown Mushroom Block":{
+   "Brown Mushroom Block":576
+  }
+ },
+ "Enchanted Red Mushroom Block":{
+  "Enchanted Red Mushroom Block":{
+   "Red Mushroom Block":576
+  }
+ },
+ "Enchanted Ice":{
+  "Enchanted Ice":{
+   "Ice":160
+  }
+ },
+ "Enchanted Ink Sack":{
+  "Enchanted Ink Sack":{
+   "Ink Sac":80
+  }
+ },
+ "Enchanted Iron":{
+  "Enchanted Iron":{
+   "Iron Ingot":160
+  }
+ },
+ "Enchanted Iron Block":{
+  "Enchanted Iron Block":{
+   "Enchanted Iron":160
+  }
+ },
+ "Lantern Helmet":{
+  "Lantern Helmet":{
+   "Enchanted Pumpkin":128,
+   "Torch":1
+  }
+ },
+ "Enchanted Jungle Wood":{
+  "Enchanted Jungle Wood":{
+   "Jungle Wood":160
+  }
+ },
+ "Enchanted Lapis Lazuli":{
+  "Enchanted Lapis Lazuli":{
+   "Lapis Lazuli":160
+  }
+ },
+ "Enchanted Lapis Block":{
+  "Enchanted Lapis Block":{
+   "Enchanted Lapis Lazuli":160
+  }
+ },
+ "Enchanted Lava Bucket":{
+  "Enchanted Lava Bucket":{
+   "Enchanted Iron":3,
+   "Enchanted Block of Coal":2
+  }
+ },
+ "Enchanted Leather":{
+  "Enchanted Leather":{
+   "Leather":576
+  }
+ },
+ "Enchanted Magma Cream":{
+  "Enchanted Magma Cream":{
+   "Magma Cream":160
+  }
+ },
+ "Enchanted Melon":{
+  "Enchanted Melon":{
+   "Melon":160
+  }
+ },
+ "Enchanted Melon Block":{
+  "Enchanted Melon Block":{
+   "Enchanted Melon":160
+  }
+ },
+ "Enchanted Mutton":{
+  "Enchanted Mutton":{
+   "Raw Mutton":160
+  }
+ },
+ "Enchanted Nether Wart":{
+  "Enchanted Nether Wart":{
+   "Nether Wart":160
+  }
+ },
+ "Enchanted Oak Wood":{
+  "Enchanted Oak Wood":{
+   "Oak Wood":160
+  }
+ },
+ "Enchanted Obsidian":{
+  "Enchanted Obsidian":{
+   "Obsidian":160
+  }
+ },
+ "Enchanted Packed Ice":{
+  "Enchanted Packed Ice":{
+   "Enchanted Ice":160
+  }
+ },
+ "Enchanted Paper":{
+  "Enchanted Paper":{
+   "Sugar Canes":192
+  }
+ },
+ "Enchanted Poisonous Potato":{
+  "Enchanted Poisonous Potato":{
+   "Poisonous Potato":160
+  }
+ },
+ "Enchanted Poppy":{
+  "Enchanted Poppy":{
+   "Poppy":576
+  }
+ },
+ "Enchanted Pork":{
+  "Enchanted Pork":{
+   "Raw Porkchop":160
+  }
+ },
+ "Enchanted Potato":{
+  "Enchanted Potato":{
+   "Potato":160
+  }
+ },
+ "Enchanted Prismarine Crystals":{
+  "Enchanted Prismarine Crystals":{
+   "Prismarine Crystals":80
+  }
+ },
+ "Enchanted Prismarine Shard":{
+  "Enchanted Prismarine Shard":{
+   "Prismarine Shard":80
+  }
+ },
+ "Enchanted Pufferfish":{
+  "Enchanted Pufferfish":{
+   "Pufferfish":160
+  }
+ },
+ "Enchanted Pumpkin":{
+  "Enchanted Pumpkin":{
+   "Pumpkin":160
+  }
+ },
+ "Enchanted Quartz":{
+  "Enchanted Quartz":{
+   "Nether Quartz":160
+  }
+ },
+ "Enchanted Quartz Block":{
+  "Enchanted Quartz Block":{
+   "Enchanted Quartz":160
+  }
+ },
+ "Enchanted Raw Rabbit":{
+  "Enchanted Raw Rabbit":{
+   "Raw Rabbit":160
+  }
+ },
+ "Enchanted Rabbit Foot":{
+  "Enchanted Rabbit Foot":{
+   "Rabbit's Foot":160
+  }
+ },
+ "Enchanted Rabbit Hide":{
+  "Enchanted Rabbit Hide":{
+   "Rabbit Hide":576
+  }
+ },
+ "Enchanted Raw Beef":{
+  "Enchanted Raw Beef":{
+   "Raw Beef":160
+  }
+ },
+ "Enchanted Raw Chicken":{
+  "Enchanted Raw Chicken":{
+   "Raw Chicken":160
+  }
+ },
+ "Enchanted Raw Fish":{
+  "Enchanted Raw Fish":{
+   "Raw Fish":160
+  }
+ },
+ "Enchanted Raw Salmon":{
+  "Enchanted Raw Salmon":{
+   "Raw Salmon":160
+  }
+ },
+ "Enchanted Redstone":{
+  "Enchanted Redstone":{
+   "Redstone":160
+  }
+ },
+ "Enchanted Redstone Block":{
+  "Enchanted Redstone Block":{
+   "Enchanted Redstone":160
+  }
+ },
+ "Enchanted Redstone Lamp":{
+  "Enchanted Redstone Lamp":{
+   "Enchanted Redstone":128,
+   "Enchanted Glowstone Dust":32
+  }
+ },
+ "Enchanted Red Mushroom":{
+  "Enchanted Red Mushroom":{
+   "Mushroom":160
+  }
+ },
+ "Enchanted Rotten Flesh":{
+  "Enchanted Rotten Flesh":{
+   "Rotten Flesh":160
+  }
+ },
+ "Enchanted Sand":{
+  "Enchanted Sand":{
+   "Sand":160
+  }
+ },
+ "Enchanted Seeds":{
+  "Enchanted Seeds":{
+   "Seeds":160
+  }
+ },
+ "Enchanted Shark Fin":{
+  "Enchanted Shark Fin":{
+   "Shark Fin":160
+  }
+ },
+ "Enchanted Slimeball":{
+  "Enchanted Slimeball":{
+   "Slimeball":160
+  }
+ },
+ "Enchanted Slime Block":{
+  "Enchanted Slime Block":{
+   "Enchanted Slimeball":160
+  }
+ },
+ "Enchanted Snow Block":{
+  "Enchanted Snow Block":{
+   "Snow":160
+  }
+ },
+ "Enchanted Spider Eye":{
+  "Enchanted Spider Eye":{
+   "Spider Eye":160
+  }
+ },
+ "Enchanted Sponge":{
+  "Enchanted Sponge":{
+   "Sponge":40
+  }
+ },
+ "Enchanted Spruce Wood":{
+  "Enchanted Spruce Wood":{
+   "Spruce Wood":160
+  }
+ },
+ "Enchanted String":{
+  "Enchanted String":{
+   "String":192
+  }
+ },
+ "Enchanted Sugar":{
+  "Enchanted Sugar":{
+   "Sugar Canes":160
+  }
+ },
+ "Enchanted Sugar Cane":{
+  "Enchanted Sugar Cane":{
+   "Enchanted Sugar":160
+  }
+ },
+ "Enchanted Lily Pad":{
+  "Enchanted Lily Pad":{
+   "Lily Pad":160
+  }
+ },
+ "Enchanted Wet Sponge":{
+  "Enchanted Wet Sponge":{
+   "Enchanted Sponge":40
+  }
+ },
+ "Enchanted Wool":{
+  "Enchanted Wool":{
+   "Wool":160
+  }
+ },
+ "Enchantment Table":{
+  "Enchantment Table":{
+   "Book":1,
+   "Diamond":2,
+   "Obsidian":4
+  }
+ },
+ "Enderman Minion I":{
+  "Enderman Minion I":{
+   "Ender Pearl":64,
+   "Wooden Sword":1
+  }
+ },
+ "[Lvl {LVL}] Endermite":{
+  "[Lvl {LVL}] Endermite":{
+   "Enchanted End Stone":512,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Ender Bow":{
+  "Ender Bow":{
+   "Enchanted Ender Pearl":12,
+   "String":3
+  }
+ },
+ "Ender Chest":{
+  "Ender Chest":{
+   "Obsidian":8,
+   "Eye of Ender":1
+  }
+ },
+ "End Stone Minion I":{
+  "End Stone Minion I":{
+   "End Stone":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "End Biome Stick":{
+  "End Biome Stick":{
+   "End Stone":64,
+   "Stick":2
+  }
+ },
+ "End Stone Sword":{
+  "End Stone Sword":{
+   "Enchanted End Stone":128,
+   "Stick":1
+  }
+ },
+ "End Sword":{
+  "End Sword":{
+   "Ender Pearl":2,
+   "Stick":1
+  }
+ },
+ "Eternal Hoof":{
+  "Eternal Hoof":{
+   "Soul Fragment":8,
+   "Lucky Hoof":1
+  }
+ },
+ "Experience Artifact":{
+  "Experience Artifact":{
+   "Enchanted Lapis Block":9
+  }
+ },
+ "Explosive Bow":{
+  "Explosive Bow":{
+   "Enchanted Firework Rocket":3,
+   "String":3
+  }
+ },
+ "Minecart with TNT":{
+  "Minecart with TNT":{
+   "TNT":1,
+   "Minecart":1
+  }
+ },
+ "Eye of Ender":{
+  "Eye of Ender":{
+   "Ender Pearl":1,
+   "Blaze Powder":1
+  }
+ },
+ "Farmer Boots":{
+  "Farmer Boots":{
+   "Enchanted Pumpkin":256
+  }
+ },
+ "Farmer Orb":{
+  "Farmer Orb":{
+   "Enchanted Pumpkin":8,
+   "Enchanted Glowstone":1
+  }
+ },
+ "Farmer's Rod":{
+  "Farmer's Rod":{
+   "Enchanted Clay":1,
+   "Hay Bale":64,
+   "String":2
+  }
+ },
+ "Portal to the Barn":{
+  "Portal to the Barn":{
+   "Carrot":48,
+   "Potato":80,
+   "Ender Pearl":16
+  }
+ },
+ "Travel Scroll to the Barn":{
+  "Travel Scroll to the Barn":{
+   "Enchanted Carrot":48,
+   "Enchanted Potato":80,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Portal to Mushroom Island":{
+  "Portal to Mushroom Island":{
+   "Cocoa Beans":48,
+   "Cactus":80,
+   "Ender Pearl":16
+  }
+ },
+ "Travel Scroll to Mushroom Island":{
+  "Travel Scroll to Mushroom Island":{
+   "Enchanted Cocoa Bean":48,
+   "Enchanted Cactus Green":80,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Farming Island":{
+  "Farming Island":{
+   "Hay Bale":15,
+   "Dirt":30
+  }
+ },
+ "Farming Talisman":{
+  "Farming Talisman":{
+   "Hay Bale":5,
+   "Seeds":4
+  }
+ },
+ "Farm Armor Boots":{
+  "Farm Armor Boots":{
+   "Enchanted Hay Bale":4
+  }
+ },
+ "Farm Armor Chestplate":{
+  "Farm Armor Chestplate":{
+   "Enchanted Hay Bale":8
+  }
+ },
+ "Farm Armor Helmet":{
+  "Farm Armor Helmet":{
+   "Enchanted Hay Bale":5
+  }
+ },
+ "Farm Armor Leggings":{
+  "Farm Armor Leggings":{
+   "Enchanted Hay Bale":7
+  }
+ },
+ "Farm Crystal":{
+  "Farm Crystal":{
+   "Enchanted Pumpkin":96,
+   "Enchanted Quartz":1
+  }
+ },
+ "Farm Suit Boots":{
+  "Farm Suit Boots":{
+   "Hay Bale":4
+  }
+ },
+ "Farm Suit Chestplate":{
+  "Farm Suit Chestplate":{
+   "Hay Bale":8
+  }
+ },
+ "Farm Suit Helmet":{
+  "Farm Suit Helmet":{
+   "Hay Bale":5
+  }
+ },
+ "Farm Suit Leggings":{
+  "Farm Suit Leggings":{
+   "Hay Bale":7
+  }
+ },
+ "Feather Artifact":{
+  "Feather Artifact":{
+   "Enchanted Feather":128,
+   "Feather Ring":1
+  }
+ },
+ "Feather Ring":{
+  "Feather Ring":{
+   "Enchanted Feather":7,
+   "Feather Talisman":1
+  }
+ },
+ "Feather Talisman":{
+  "Feather Talisman":{
+   "Feather":108
+  }
+ },
+ "Fel Sword":{
+  "Fel Sword":{
+   "Fel Pearl":32,
+   "Stick":1
+  }
+ },
+ "Oak Fence":{
+  "Oak Fence":{
+   "Oak Wood Planks":4,
+   "Stick":2
+  }
+ },
+ "Oak Fence Gate":{
+  "Oak Fence Gate":{
+   "Stick":4,
+   "Oak Wood Planks":2
+  }
+ },
+ "Fermented Spider Eye":{
+  "Fermented Spider Eye":{
+   "Spider Eye":1,
+   "Mushroom":1,
+   "Sugar":1
+  }
+ },
+ "Fire Charge":{
+  "Fire Charge":{
+   "Gunpowder":1,
+   "Blaze Powder":1,
+   "Coal":1
+  }
+ },
+ "Fire Talisman":{
+  "Fire Talisman":{
+   "Enchanted Blaze Powder":9
+  }
+ },
+ "Fishing Minion I":{
+  "Fishing Minion I":{
+   "Raw Fish":64,
+   "Wooden Sword":1
+  }
+ },
+ "Fishing Rod":{
+  "Fishing Rod":{
+   "Stick":3,
+   "String":2
+  }
+ },
+ "Fish Bait":{
+  "Fish Bait":{
+   "Raw Salmon":1,
+   "Raw Fish":2
+  }
+ },
+ "Fish Hat":{
+  "Fish Hat":{
+   "Raw Fish":8
+  }
+ },
+ "Flint and Steel":{
+  "Flint and Steel":{
+   "Iron Ingot":1,
+   "Flint":1
+  }
+ },
+ "Flint Shovel":{
+  "Flint Shovel":{
+   "Flint":10,
+   "Stick":2
+  }
+ },
+ "Florid Zombie Sword":{
+  "Florid Zombie Sword":{
+   "Healing Tissue":24,
+   "Ornate Zombie Sword":1
+  }
+ },
+ "Flower Minion II":{
+  "Flower Minion II":{
+   "Dandelion":160,
+   "Flower Minion I":1
+  }
+ },
+ "Flower of Truth":{
+  "Flower of Truth":{
+   "Ancient Rose":9
+  }
+ },
+ "Flower Pot":{
+  "Flower Pot":{
+   "Brick":3
+  }
+ },
+ "Portal to Birch Park":{
+  "Portal to Birch Park":{
+   "Birch Wood":128,
+   "Ender Pearl":16
+  }
+ },
+ "Portal to Spruce Woods":{
+  "Portal to Spruce Woods":{
+   "Spruce Wood":128,
+   "Ender Pearl":16
+  }
+ },
+ "Portal to Jungle Island":{
+  "Portal to Jungle Island":{
+   "Jungle Wood":128,
+   "Ender Pearl":16
+  }
+ },
+ "Portal to Savanna Woodland":{
+  "Portal to Savanna Woodland":{
+   "Acacia Wood":128,
+   "Ender Pearl":16
+  }
+ },
+ "Portal to Dark Thicket":{
+  "Portal to Dark Thicket":{
+   "Dark Oak Wood":128,
+   "Ender Pearl":16
+  }
+ },
+ "Forest Biome Stick":{
+  "Forest Biome Stick":{
+   "Oak Leaves":64,
+   "Stick":2
+  }
+ },
+ "Frozen Blaze Boots":{
+  "Frozen Blaze Boots":{
+   "Enchanted Packed Ice":64,
+   "Blaze Boots":1
+  }
+ },
+ "Frozen Blaze Chestplate":{
+  "Frozen Blaze Chestplate":{
+   "Enchanted Packed Ice":64,
+   "Blaze Chestplate":1
+  }
+ },
+ "Frozen Blaze Helmet":{
+  "Frozen Blaze Helmet":{
+   "Enchanted Packed Ice":64,
+   "Blaze Helmet":1
+  }
+ },
+ "Frozen Blaze Leggings":{
+  "Frozen Blaze Leggings":{
+   "Enchanted Packed Ice":64,
+   "Blaze Leggings":1
+  }
+ },
+ "Frozen Scythe":{
+  "Frozen Scythe":{
+   "Enchanted Packed Ice":64,
+   "Stick":2
+  }
+ },
+ "Furnace":{
+  "Furnace":{
+   "Cobblestone":8
+  }
+ },
+ "Ghast Minion I":{
+  "Ghast Minion I":{
+   "Ghast Tear":64,
+   "Wooden Sword":1
+  }
+ },
+ "Ghast Head":{
+  "Ghast Head":{
+   "Ghast Tear":8
+  }
+ },
+ "Ghoul Buster":{
+  "Ghoul Buster":{
+   "Ectoplasm":32,
+   "Spooky Shard":8,
+   "Purple Candy":64
+  }
+ },
+ "Glass Bottle":{
+  "Glass Bottle":{
+   "Glass":3
+  }
+ },
+ "Glowstone":{
+  "Glowstone":{
+   "Glowstone Dust":4
+  }
+ },
+ "Glowstone Minion I":{
+  "Glowstone Minion I":{
+   "Glowstone Dust":128,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Golden Apple":{
+  "Golden Apple":{
+   "Gold Ingot":8,
+   "Apple":1
+  }
+ },
+ "Golden Carrot":{
+  "Golden Carrot":{
+   "Gold Nugget":8,
+   "Carrot":1
+  }
+ },
+ "Golden Tooth":{
+  "Golden Tooth":{
+   "Wolf Tooth":128,
+   "Enchanted Gold":32
+  }
+ },
+ "Golden Axe":{
+  "Golden Axe":{
+   "Gold Ingot":3,
+   "Stick":2
+  }
+ },
+ "Block of Gold":{
+  "Block of Gold":{
+   "Gold Ingot":9
+  }
+ },
+ "Golden Boots":{
+  "Golden Boots":{
+   "Gold Ingot":4
+  }
+ },
+ "Golden Chestplate":{
+  "Golden Chestplate":{
+   "Gold Ingot":8
+  }
+ },
+ "Gold Claws":{
+  "Gold Claws":{
+   "Enchanted Gold Block":18,
+   "Iron Claws":1,
+   "Zog Anvil":1
+  }
+ },
+ "Gold Minion I":{
+  "Gold Minion I":{
+   "Gold Ingot":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Golden Helmet":{
+  "Golden Helmet":{
+   "Gold Ingot":5
+  }
+ },
+ "Golden Hoe":{
+  "Golden Hoe":{
+   "Gold Ingot":2,
+   "Stick":2
+  }
+ },
+ "Gold Ingot":{
+  "Gold Ingot":{
+   "Block of Gold":1
+  }
+ },
+ "Golden Leggings":{
+  "Golden Leggings":{
+   "Gold Ingot":7
+  }
+ },
+ "Gold Nugget":{
+  "Gold Nugget":{
+   "Gold Ingot":1
+  }
+ },
+ "Golden Pickaxe":{
+  "Golden Pickaxe":{
+   "Gold Ingot":3,
+   "Stick":2
+  }
+ },
+ "Weighted Pressure Plate (Light)":{
+  "Weighted Pressure Plate (Light)":{
+   "Gold Ingot":2
+  }
+ },
+ "Golden Shovel":{
+  "Golden Shovel":{
+   "Gold Ingot":1,
+   "Stick":2
+  }
+ },
+ "Golden Sword":{
+  "Golden Sword":{
+   "Gold Ingot":2,
+   "Stick":1
+  }
+ },
+ "Golem Armor Boots":{
+  "Golem Armor Boots":{
+   "Enchanted Iron":40
+  }
+ },
+ "Golem Armor Chestplate":{
+  "Golem Armor Chestplate":{
+   "Enchanted Iron":80
+  }
+ },
+ "Golem Armor Helmet":{
+  "Golem Armor Helmet":{
+   "Enchanted Iron":50
+  }
+ },
+ "Golem Armor Leggings":{
+  "Golem Armor Leggings":{
+   "Enchanted Iron":70
+  }
+ },
+ "Golem Hat":{
+  "Golem Hat":{
+   "Iron Ingot":40
+  }
+ },
+ "Golem Sword":{
+  "Golem Sword":{
+   "Enchanted Iron Block":2,
+   "Stick":1
+  }
+ },
+ "Grand Experience Bottle":{
+  "Grand Experience Bottle":{
+   "Enchanted Lapis Lazuli":6,
+   "Glass Bottle":1
+  }
+ },
+ "Grappling Hook":{
+  "Grappling Hook":{
+   "Enchanted String":3,
+   "Stick":2
+  }
+ },
+ "Gravel Minion I":{
+  "Gravel Minion I":{
+   "Gravel":80,
+   "Wooden Shovel":1
+  }
+ },
+ "Gravity Talisman":{
+  "Gravity Talisman":{
+   "Obsidian":144
+  }
+ },
+ "Greater Backpack":{
+  "Greater Backpack":{
+   "Enchanted Leather":32,
+   "Large Backpack":1
+  }
+ },
+ "Great Carrot Candy":{
+  "Great Carrot Candy":{
+   "Enchanted Carrot":320,
+   "Simple Carrot Candy":1
+  }
+ },
+ "Griffin Upgrade Stone":{
+  "Griffin Upgrade Stone":{
+   "Griffin Feather":8,
+   "Enchanted Gold":48,
+   "Ancient Claw":32,
+   "Base Griffin Upgrade Stone":1
+  }
+ },
+ "Boots of Growth":{
+  "Boots of Growth":{
+   "Enchanted Dark Oak Wood":256
+  }
+ },
+ "Chestplate of Growth":{
+  "Chestplate of Growth":{
+   "Enchanted Dark Oak Wood":512
+  }
+ },
+ "Helmet of Growth":{
+  "Helmet of Growth":{
+   "Enchanted Dark Oak Wood":320
+  }
+ },
+ "Leggings of Growth":{
+  "Leggings of Growth":{
+   "Enchanted Dark Oak Wood":448
+  }
+ },
+ "Guardian Chestplate":{
+  "Guardian Chestplate":{
+   "Prismarine Shard":256,
+   "Prismarine Crystals":256
+  }
+ },
+ "Hardened Diamond Boots":{
+  "Hardened Diamond Boots":{
+   "Enchanted Diamond":4
+  }
+ },
+ "Hardened Diamond Chestplate":{
+  "Hardened Diamond Chestplate":{
+   "Enchanted Diamond":8
+  }
+ },
+ "Hardened Diamond Helmet":{
+  "Hardened Diamond Helmet":{
+   "Enchanted Diamond":5
+  }
+ },
+ "Hardened Diamond Leggings":{
+  "Hardened Diamond Leggings":{
+   "Enchanted Diamond":7
+  }
+ },
+ "Hard Glass":{
+  "Hard Glass":{
+   "Coal":8,
+   "Enchanted Sand":1
+  }
+ },
+ "Haste Block":{
+  "Haste Block":{
+   "Enchanted End Stone":8,
+   "Enchanted Feather":1
+  }
+ },
+ "Haste Ring":{
+  "Haste Ring":{
+   "Enchanted Cobblestone":256
+  }
+ },
+ "Hay Bale":{
+  "Hay Bale":{
+   "Wheat":9
+  }
+ },
+ "Healing Ring":{
+  "Healing Ring":{
+   "Enchanted Lily Pad":4,
+   "Healing Talisman":1
+  }
+ },
+ "Healing Talisman":{
+  "Healing Talisman":{
+   "Lily Pad":144
+  }
+ },
+ "Holy Dragon Boots":{
+  "Holy Dragon Boots":{
+   "Holy Dragon Fragment":40
+  }
+ },
+ "Holy Dragon Chestplate":{
+  "Holy Dragon Chestplate":{
+   "Holy Dragon Fragment":80
+  }
+ },
+ "Holy Dragon Helmet":{
+  "Holy Dragon Helmet":{
+   "Holy Dragon Fragment":50
+  }
+ },
+ "Holy Dragon Leggings":{
+  "Holy Dragon Leggings":{
+   "Holy Dragon Fragment":70
+  }
+ },
+ "Honed Shark Tooth Necklace":{
+  "Honed Shark Tooth Necklace":{
+   "Blue Shark Tooth":4,
+   "Dull Shark Tooth Necklace":1
+  }
+ },
+ "Hopper":{
+  "Hopper":{
+   "Iron Ingot":5,
+   "Chest":1
+  }
+ },
+ "Minecart with Hopper":{
+  "Minecart with Hopper":{
+   "Hopper":1,
+   "Minecart":1
+  }
+ },
+ "[Lvl {LVL}] Horse":{
+  "[Lvl {LVL}] Horse":{
+   "Enchanted Leather":8,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Hot Potato Book":{
+  "Hot Potato Book":{
+   "Paper":3,
+   "Enchanted Baked Potato":1
+  }
+ },
+ "Travel Scroll to Hub Crypts":{
+  "Travel Scroll to Hub Crypts":{
+   "Revenant Viscera":3,
+   "Enchanted Obsidian":80,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Brown Mushroom Block":{
+  "Brown Mushroom Block":{
+   "Mushroom":9
+  }
+ },
+ "Red Mushroom Block":{
+  "Red Mushroom Block":{
+   "Mushroom":9
+  }
+ },
+ "Hunter Ring":{
+  "Hunter Ring":{
+   "Golden Tooth":256,
+   "Grizzly Bait":1
+  }
+ },
+ "Hunter Talisman":{
+  "Hunter Talisman":{
+   "Golden Tooth":64,
+   "Enchanted Rotten Flesh":32
+  }
+ },
+ "Hurricane Bow":{
+  "Hurricane Bow":{
+   "Enchanted Bone":96,
+   "String":96
+  }
+ },
+ "Hyperion":{
+  "Hyperion":{
+   "L.A.S.R.'s Eye":8,
+   "Necron's Blade (Unrefined)":1
+  }
+ },
+ "Hyper Catalyst":{
+  "Hyper Catalyst":{
+   "Catalyst":8,
+   "Hyper Catalyst Upgrade":1
+ },
+ "for":8
+ },
+ "Ice Bait":{
+  "Ice Bait":{
+   "Ice":1,
+   "Raw Fish":1
+  }
+ },
+ "Ice Minion I":{
+  "Ice Minion I":{
+   "Ice":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Rose Red":{
+  "Rose Red":{
+   "Poppy":1
+  }
+ },
+ "Lime Dye":{
+  "Lime Dye":{
+   "Cactus Green":1,
+   "Bone Meal":1
+  }
+ },
+ "Dandelion Yellow":{
+  "Dandelion Yellow":{
+   "Dandelion":1
+  }
+ },
+ "Light Blue Dye":{
+  "Light Blue Dye":{
+   "Lapis Lazuli":1,
+   "Bone Meal":1
+  }
+ },
+ "Magenta Dye":{
+  "Magenta Dye":{
+   "Lapis Lazuli":1,
+   "Rose Red":2,
+   "Bone Meal":1
+  }
+ },
+ "Orange Dye":{
+  "Orange Dye":{
+   "Rose Red":1,
+   "Dandelion Yellow":1
+  }
+ },
+ "Bone Meal":{
+  "Bone Meal":{
+   "Bone":1
+  }
+ },
+ "Lapis Lazuli":{
+  "Lapis Lazuli":{
+   "Lapis Lazuli Block":1
+  }
+ },
+ "Purple Dye":{
+  "Purple Dye":{
+   "Lapis Lazuli":1,
+   "Rose Red":1
+  }
+ },
+ "Cyan Dye":{
+  "Cyan Dye":{
+   "Lapis Lazuli":1,
+   "Cactus Green":1
+  }
+ },
+ "Light Gray Dye":{
+  "Light Gray Dye":{
+   "Ink Sac":1,
+   "Bone Meal":2
+  }
+ },
+ "Gray Dye":{
+  "Gray Dye":{
+   "Ink Sac":1,
+   "Bone Meal":1
+  }
+ },
+ "Pink Dye":{
+  "Pink Dye":{
+   "Rose Red":1,
+   "Bone Meal":1
+  }
+ },
+ "Ink Wand":{
+  "Ink Wand":{
+   "Enchanted Ink Sack":64,
+   "Stick":1
+  }
+ },
+ "Iron Axe":{
+  "Iron Axe":{
+   "Iron Ingot":3,
+   "Stick":2
+  }
+ },
+ "Block of Iron":{
+  "Block of Iron":{
+   "Iron Ingot":9
+  }
+ },
+ "Iron Boots":{
+  "Iron Boots":{
+   "Iron Ingot":4
+  }
+ },
+ "Iron Chestplate":{
+  "Iron Chestplate":{
+   "Iron Ingot":8
+  }
+ },
+ "Iron Door":{
+  "Iron Door":{
+   "Iron Ingot":6
+  }
+ },
+ "Iron Bars":{
+  "Iron Bars":{
+   "Iron Ingot":6
+  }
+ },
+ "Iron Minion I":{
+  "Iron Minion I":{
+   "Iron Ingot":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Iron Helmet":{
+  "Iron Helmet":{
+   "Iron Ingot":5
+  }
+ },
+ "Iron Hoe":{
+  "Iron Hoe":{
+   "Iron Ingot":2,
+   "Stick":2
+  }
+ },
+ "Iron Ingot":{
+  "Iron Ingot":{
+   "Block of Iron":1
+  }
+ },
+ "Iron Leggings":{
+  "Iron Leggings":{
+   "Iron Ingot":7
+  }
+ },
+ "Iron Pickaxe":{
+  "Iron Pickaxe":{
+   "Iron Ingot":3,
+   "Stick":2
+  }
+ },
+ "Weighted Pressure Plate (Heavy)":{
+  "Weighted Pressure Plate (Heavy)":{
+   "Iron Ingot":2
+  }
+ },
+ "Iron Shovel":{
+  "Iron Shovel":{
+   "Iron Ingot":1,
+   "Stick":2
+  }
+ },
+ "Iron Sword":{
+  "Iron Sword":{
+   "Iron Ingot":2,
+   "Stick":1
+  }
+ },
+ "Iron Trapdoor":{
+  "Iron Trapdoor":{
+   "Iron Ingot":4
+  }
+ },
+ "Item Frame":{
+  "Item Frame":{
+   "Stick":8,
+   "Leather":1
+ }
+ },
+  "Necron's Blade (Unrefined)":{
+    "Necron's Blade":{
+    "Necron's Handle":1,
+    "Wither Catalyst":24
+  }
+ },
+ "Jack o'Lantern":{
+  "Jack o'Lantern":{
+   "Pumpkin":1,
+   "Torch":1
+  }
+ },
+ "[Lvl {LVL}] Jerry":{
+  "[Lvl {LVL}] Jerry":{
+   "Move Jerry":8,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Jukebox":{
+  "Jukebox":{
+   "Oak Wood Planks":8,
+   "Diamond":1
+  }
+ },
+ "Jumbo Backpack":{
+  "Jumbo Backpack":{
+   "Jumbo Backpack Upgrade":1,
+   "Greater Backpack":1
+  }
+ },
+ "Jungle Axe":{
+  "Jungle Axe":{
+   "Enchanted Jungle Wood":3,
+   "Stick":2
+  }
+ },
+ "Jungle Biome Stick":{
+  "Jungle Biome Stick":{
+   "Jungle Leaves":64,
+   "Stick":2
+  }
+ },
+ "Jungle Door":{
+  "Jungle Door":{
+   "Jungle Wood Planks":6
+  }
+ },
+ "Jungle Fence":{
+  "Jungle Fence":{
+   "Jungle Wood Planks":4,
+   "Stick":2
+  }
+ },
+ "Jungle Fence Gate":{
+  "Jungle Fence Gate":{
+   "Stick":4,
+   "Jungle Wood Planks":2
+  }
+ },
+ "Jungle Minion I":{
+  "Jungle Minion I":{
+   "Jungle Wood":80,
+   "Wooden Axe":1
+  }
+ },
+ "Jungle Wood Stairs":{
+  "Jungle Wood Stairs":{
+   "Jungle Wood Planks":6
+  }
+ },
+ "Ladder":{
+  "Ladder":{
+   "Stick":7
+  }
+ },
+ "Lapis Lazuli Block":{
+  "Lapis Lazuli Block":{
+   "Lapis Lazuli":9
+  }
+ },
+ "Lapis Minion I":{
+  "Lapis Minion I":{
+   "Lapis Lazuli":256,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Large Agronomy Sack":{
+  "Large Agronomy Sack":{
+   "Enchanted Hay Bale":64,
+   "Medium Agronomy Sack":1
+  }
+ },
+ "Large Backpack":{
+  "Large Backpack":{
+   "Enchanted Leather":16,
+   "Medium Backpack":1
+  }
+ },
+ "Candy Sack":{
+  "Candy Sack":{
+   "Pumpkin Guts":32,
+   "Trick or Treat Bag":1
+  }
+ },
+ "Large Combat Sack":{
+  "Large Combat Sack":{
+   "Enchanted Rotten Flesh":64,
+   "Medium Combat Sack":1
+  }
+ },
+ "Large Storage":{
+  "Large Storage":{
+   "Enchanted Oak Wood":256,
+   "Medium Storage":1
+  }
+ },
+ "Large Fishing Sack":{
+  "Large Fishing Sack":{
+   "Enchanted Pufferfish":64,
+   "Medium Fishing Sack":1
+  }
+ },
+ "Large Foraging Sack":{
+  "Large Foraging Sack":{
+   "Enchanted Birch Wood":64,
+   "Medium Foraging Sack":1
+  }
+ },
+ "Large Husbandry Sack":{
+  "Large Husbandry Sack":{
+   "Enchanted Mutton":64,
+   "Medium Husbandry Sack":1
+  }
+ },
+ "Large Mining Sack":{
+  "Large Mining Sack":{
+   "Enchanted Coal":64,
+   "Medium Mining Sack":1
+  }
+ },
+ "Large Slayer Sack":{
+  "Large Slayer Sack":{
+   "Golden Tooth":8,
+   "Medium Slayer Sack":1
+  }
+ },
+ "Launch Pad":{
+  "Launch Pad":{
+   "Enchanted Slimeball":8,
+   "Enchanted Redstone":1
+  }
+ },
+ "Lava Talisman":{
+  "Lava Talisman":{
+   "Enchanted Magma Cream":9
+  }
+ },
+ "Leaflet Sandals":{
+  "Leaflet Sandals":{
+   "Oak Leaves":4
+  }
+ },
+ "Leaflet Tunic":{
+  "Leaflet Tunic":{
+   "Oak Leaves":8
+  }
+ },
+ "Leaflet Hat":{
+  "Leaflet Hat":{
+   "Oak Leaves":5
+  }
+ },
+ "Leaflet Pants":{
+  "Leaflet Pants":{
+   "Oak Leaves":7
+  }
+ },
+ "Leaping Sword":{
+  "Leaping Sword":{
+   "Enchanted Fermented Spider Eye":24,
+   "Stick":1
+  }
+ },
+ "Lead":{
+  "Lead":{
+   "String":4,
+   "Slimeball":1
+  }
+ },
+ "Leather":{
+  "Leather":{
+   "Rabbit Hide":4
+  }
+ },
+ "Leather Boots":{
+  "Leather Boots":{
+   "Leather":4
+  }
+ },
+ "Leather Tunic":{
+  "Leather Tunic":{
+   "Leather":8
+  }
+ },
+ "Leather Cap":{
+  "Leather Cap":{
+   "Leather":5
+  }
+ },
+ "Leather Pants":{
+  "Leather Pants":{
+   "Leather":7
+  }
+ },
+ "Rod of Legends":{
+  "Rod of Legends":{
+   "Enchanted Lily Pad":128,
+   "Rod of Champions":1
+  }
+ },
+ "Lesser Orb of Healing":{
+  "Lesser Orb of Healing":{
+   "Mimic Fragment":9
+  }
+ },
+ "Lever":{
+  "Lever":{
+   "Stick":1,
+   "Cobblestone":1
+  }
+ },
+ "Light Bait":{
+  "Light Bait":{
+   "Prismarine Crystals":2,
+   "Raw Fish":1
+  }
+ },
+ "Magical Water Bucket":{
+  "Magical Water Bucket":{
+   "Iron Ingot":3,
+   "Enchanted Ice":1
+  }
+ },
+ "Magical Mushroom Soup":{
+  "Magical Mushroom Soup":{
+   "Glowstone Dust":1,
+   "Red Mushroom":1,
+   "Brown Mushroom":1,
+   "Redstone":1,
+   "Bowl":1
+  }
+ },
+   "Mystical Mushroom Soup":{
+     "Mystical Mushroom Soup":{
+       "Enchanted Glowstone Dust":1,
+       "Enchanted Red Mushroom":1,
+       "Enchanted Brown Mushroom":1,
+       "Enchanted Redstone":1,
+       "Bowl":1
+     }
+   },
+ "Magma Bow":{
+  "Magma Bow":{
+   "Enchanted Magma Cream":96,
+   "Enchanted String":3
+  }
+ },
+ "Magma Bucket":{
+  "Magma Bucket":{
+   "Enchanted Lava Bucket":2,
+   "Heat Core":1
+  }
+ },
+ "Magma Cream":{
+  "Magma Cream":{
+   "Blaze Powder":1,
+   "Slimeball":1
+  }
+ },
+ "Magma Cube Minion I":{
+  "Magma Cube Minion I":{
+   "Magma Cream":80,
+   "Wooden Sword":1
+  }
+ },
+ "Magma Cube Head":{
+  "Magma Cube Head":{
+   "Magma Cream":8
+  }
+ },
+ "Magnetic Talisman":{
+  "Magnetic Talisman":{
+   "Emerald":128,
+   "Redstone":32
+  }
+ },
+ "Mana Flux Power Orb":{
+  "Mana Flux Power Orb":{
+   "Enchanted Lapis Block":4,
+   "Golden Tooth":32,
+   "Radiant Power Orb":1
+  }
+ },
+ "Mastiff Boots":{
+  "Mastiff Boots":{
+   "Golden Tooth":4,
+   "Enchanted Gold":64,
+   "Boots of Growth":1
+  }
+ },
+ "Mastiff Chestplate":{
+  "Mastiff Chestplate":{
+   "Golden Tooth":4,
+   "Enchanted Gold":64,
+   "Chestplate of Growth":1
+  }
+ },
+ "Mastiff Crown":{
+  "Mastiff Crown":{
+   "Golden Tooth":4,
+   "Enchanted Diamond":64,
+   "Helmet of Growth":1
+  }
+ },
+ "Mastiff Leggings":{
+  "Mastiff Leggings":{
+   "Golden Tooth":4,
+   "Enchanted Diamond":64,
+   "Leggings of Growth":1
+  }
+ },
+ "Medium Agronomy Sack":{
+  "Medium Agronomy Sack":{
+   "Enchanted Hay Bale":32,
+   "Small Agronomy Sack":1
+  }
+ },
+ "Medium Backpack":{
+  "Medium Backpack":{
+   "Leather":512,
+   "Small Backpack":1
+  }
+ },
+ "Medium Combat Sack":{
+  "Medium Combat Sack":{
+   "Enchanted Rotten Flesh":32,
+   "Small Combat Sack":1
+  }
+ },
+ "Medium Storage":{
+  "Medium Storage":{
+   "Enchanted Oak Wood":8,
+   "Small Storage":1
+  }
+ },
+ "Medium Fishing Sack":{
+  "Medium Fishing Sack":{
+   "Enchanted Pufferfish":32,
+   "Small Fishing Sack":1
+  }
+ },
+ "Medium Foraging Sack":{
+  "Medium Foraging Sack":{
+   "Enchanted Birch Wood":32,
+   "Small Foraging Sack":1
+  }
+ },
+ "Medium Husbandry Sack":{
+  "Medium Husbandry Sack":{
+   "Enchanted Mutton":32,
+   "Small Husbandry Sack":1
+  }
+ },
+ "Medium Mining Sack":{
+  "Medium Mining Sack":{
+   "Enchanted Coal":32,
+   "Small Mining Sack":1
+  }
+ },
+ "Medium Slayer Sack":{
+  "Medium Slayer Sack":{
+   "Tarantula Silk":8,
+   "Small Slayer Sack":1
+  }
+ },
+ "Melon":{
+  "Melon":{
+   "Melon":9
+  }
+ },
+ "Melon Minion I":{
+  "Melon Minion I":{
+   "Melon":256,
+   "Wooden Hoe":1
+  }
+ },
+ "Melon Seeds":{
+  "Melon Seeds":{
+   "Melon":1
+  }
+ },
+ "Minecart":{
+  "Minecart":{
+   "Iron Ingot":5
+  }
+ },
+ "Mineral Boots":{
+  "Mineral Boots":{
+   "Refined Mineral":4,
+   "Hardened Diamond Boots":1
+  }
+ },
+ "Mineral Chestplate":{
+  "Mineral Chestplate":{
+   "Refined Mineral":8,
+   "Hardened Diamond Chestplate":1
+  }
+ },
+ "Mineral Helmet":{
+  "Mineral Helmet":{
+   "Refined Mineral":5,
+   "Hardened Diamond Helmet":1
+  }
+ },
+ "Mineral Leggings":{
+  "Mineral Leggings":{
+   "Refined Mineral":7,
+   "Hardened Diamond Leggings":1
+  }
+ },
+ "Mineral Talisman":{
+  "Mineral Talisman":{
+   "Refined Mineral":9
+  }
+ },
+ "Miner's Outfit Boots":{
+  "Miner's Outfit Boots":{
+   "Enchanted Cobblestone":4
+  }
+ },
+ "Miner's Outfit Chestplate":{
+  "Miner's Outfit Chestplate":{
+   "Enchanted Cobblestone":8
+  }
+ },
+ "Miner's Outfit Helmet":{
+  "Miner's Outfit Helmet":{
+   "Enchanted Cobblestone":5
+  }
+ },
+ "Miner's Outfit Leggings":{
+  "Miner's Outfit Leggings":{
+   "Enchanted Cobblestone":7
+  }
+ },
+ "Portal to the Gold Mine":{
+  "Portal to the Gold Mine":{
+   "Iron Ore":48,
+   "Gold Ore":80,
+   "Ender Pearl":16
+  }
+ },
+ "Travel Scroll to the Gold Mine":{
+  "Travel Scroll to the Gold Mine":{
+   "Enchanted Iron":48,
+   "Enchanted Gold":80,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Portal to the Deep Caverns":{
+  "Portal to the Deep Caverns":{
+   "Block of Redstone":48,
+   "Lapis Lazuli Block":80,
+   "Ender Pearl":16
+  }
+ },
+ "Travel Scroll to Deep Caverns":{
+  "Travel Scroll to Deep Caverns":{
+   "Enchanted Redstone":48,
+   "Enchanted Lapis Lazuli":80,
+   "Enchanted Ender Pearl":16
+  }
+ },
+ "Minion Expander":{
+  "Minion Expander":{
+   "Enchanted Quartz":16,
+   "Enchanted Redstone":2
+  }
+ },
+ "Minnow Bait":{
+  "Minnow Bait":{
+   "Raw Fish":2
+  }
+ },
+ "Mosquito Bow":{
+  "Mosquito Bow":{
+   "Enchanted Iron":128,
+   "Tarantula Silk":192,
+   "Digested Mosquito":1
+  }
+ },
+ "Moss Stone":{
+  "Moss Stone":{
+   "Cobblestone":1,
+   "Vines":1
+  }
+ },
+ "Mushroom Boots":{
+  "Mushroom Boots":{
+   "Mushroom":4
+  }
+ },
+ "Mushroom Chestplate":{
+  "Mushroom Chestplate":{
+   "Mushroom":8
+  }
+ },
+ "Mushroom Minion I":{
+  "Mushroom Minion I":{
+   "Mushroom":80,
+   "Wooden Hoe":1
+  }
+ },
+ "Mushroom Helmet":{
+  "Mushroom Helmet":{
+   "Mushroom":5
+  }
+ },
+ "Mushroom Leggings":{
+  "Mushroom Leggings":{
+   "Mushroom":7
+  }
+ },
+ "Mushroom Stew":{
+  "Mushroom Stew":{
+   "Mushroom":2,
+   "Bowl":1
+  }
+ },
+ "Stereo Pants":{
+  "Stereo Pants":{
+   "Enchanted Sponge":3,
+   "Prismarine Shard":4
+  }
+ },
+ "Mutant Nether Wart":{
+  "Mutant Nether Wart":{
+   "Enchanted Nether Wart":160
+  }
+ },
+ "Nether Biome Stick":{
+  "Nether Biome Stick":{
+   "Magma Cream":64,
+   "Stick":2
+  }
+ },
+ "Nether Brick":{
+  "Nether Brick":{
+
+  }
+ },
+ "Nether Brick Stairs":{
+  "Nether Brick Stairs":{
+   "Nether Brick":6
+  }
+ },
+ "Nether Brick Fence":{
+  "Nether Brick Fence":{
+   "Nether Brick":6
+  }
+ },
+ "Nether Wart Minion I":{
+  "Nether Wart Minion I":{
+   "Nether Wart":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Nether Wart Island":{
+  "Nether Wart Island":{
+   "Nether Wart":15,
+   "Soul Sand":30
+  }
+ },
+ "Night Crystal":{
+  "Night Crystal":{
+   "Enchanted Quartz":4,
+   "Enchanted Quartz Block":1
+  }
+ },
+ "Night Saver":{
+  "Night Saver":{
+   "Glass":3,
+   "Nether Quartz":15,
+   "Mushroom":3
+  }
+ },
+ "Night Vision Charm":{
+  "Night Vision Charm":{
+   "Enchanted Red Mushroom":4,
+   "Enchanted Brown Mushroom":4
+  }
+ },
+ "Note Block":{
+  "Note Block":{
+   "Oak Wood Planks":8,
+   "Redstone":1
+  }
+ },
+ "Oak Minion I":{
+  "Oak Minion I":{
+   "Oak Wood":80,
+   "Wooden Axe":1
+  }
+ },
+ "Obsidian Minion I":{
+  "Obsidian Minion I":{
+   "Obsidian":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "[Lvl {LVL}] Ocelot":{
+  "[Lvl {LVL}] Ocelot":{
+   "Enchanted Jungle Wood":512,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Old Dragon Boots":{
+  "Old Dragon Boots":{
+   "Old Dragon Fragment":40
+  }
+ },
+ "Old Dragon Chestplate":{
+  "Old Dragon Chestplate":{
+   "Old Dragon Fragment":80
+  }
+ },
+ "Old Dragon Helmet":{
+  "Old Dragon Helmet":{
+   "Old Dragon Fragment":50
+  }
+ },
+ "Old Dragon Leggings":{
+  "Old Dragon Leggings":{
+   "Old Dragon Fragment":70
+  }
+ },
+ "Ornate Zombie Sword":{
+  "Ornate Zombie Sword":{
+   "Enchanted Gold Block":1,
+   "Golden Powder":1,
+   "Zombie Sword":1
+  }
+ },
+ "Overflux Power Orb":{
+  "Overflux Power Orb":{
+   "Golden Tooth":128,
+   "Overflux Capacitor":1,
+   "Enchanted Redstone Block":24,
+   "Mana Flux Power Orb":1
+  }
+ },
+ "Painting":{
+  "Painting":{
+   "Stick":8,
+   "Wool":1
+  }
+ },
+ "Paper":{
+  "Paper":{
+   "Sugar Canes":3
+  }
+ },
+ "Perfect Boots - Tier I":{
+  "Perfect Boots - Tier I":{
+   "Enchanted Diamond Block":4
+  }
+ },
+ "Perfect Boots - Tier X":{
+  "Perfect Boots - Tier X":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier IX":1
+  }
+ },
+ "Perfect Boots - Tier XI":{
+  "Perfect Boots - Tier XI":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier X":1
+  }
+ },
+ "Perfect Boots - Tier XII":{
+  "Perfect Boots - Tier XII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier XI":1
+  }
+ },
+ "Perfect Boots - Tier II":{
+  "Perfect Boots - Tier II":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier I":1
+  }
+ },
+ "Perfect Boots - Tier III":{
+  "Perfect Boots - Tier III":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier II":1
+  }
+ },
+ "Perfect Boots - Tier IV":{
+  "Perfect Boots - Tier IV":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier III":1
+  }
+ },
+ "Perfect Boots - Tier V":{
+  "Perfect Boots - Tier V":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier IV":1
+  }
+ },
+ "Perfect Boots - Tier VI":{
+  "Perfect Boots - Tier VI":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier V":1
+  }
+ },
+ "Perfect Boots - Tier VII":{
+  "Perfect Boots - Tier VII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier VI":1
+  }
+ },
+ "Perfect Boots - Tier VIII":{
+  "Perfect Boots - Tier VIII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier VII":1
+  }
+ },
+ "Perfect Boots - Tier IX":{
+  "Perfect Boots - Tier IX":{
+   "Enchanted Diamond Block":4,
+   "Perfect Boots - Tier VIII":1
+  }
+ },
+ "Perfect Chestplate - Tier I":{
+  "Perfect Chestplate - Tier I":{
+   "Enchanted Diamond Block":8
+  }
+ },
+ "Perfect Chestplate - Tier X":{
+  "Perfect Chestplate - Tier X":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier IX":1
+  }
+ },
+ "Perfect Chestplate - Tier XI":{
+  "Perfect Chestplate - Tier XI":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier X":1
+  }
+ },
+ "Perfect Chestplate - Tier XII":{
+  "Perfect Chestplate - Tier XII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier XI":1
+  }
+ },
+ "Perfect Chestplate - Tier II":{
+  "Perfect Chestplate - Tier II":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier I":1
+  }
+ },
+ "Perfect Chestplate - Tier III":{
+  "Perfect Chestplate - Tier III":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier II":1
+  }
+ },
+ "Perfect Chestplate - Tier IV":{
+  "Perfect Chestplate - Tier IV":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier III":1
+  }
+ },
+ "Perfect Chestplate - Tier V":{
+  "Perfect Chestplate - Tier V":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier IV":1
+  }
+ },
+ "Perfect Chestplate - Tier VI":{
+  "Perfect Chestplate - Tier VI":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier V":1
+  }
+ },
+ "Perfect Chestplate - Tier VII":{
+  "Perfect Chestplate - Tier VII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier VI":1
+  }
+ },
+ "Perfect Chestplate - Tier VIII":{
+  "Perfect Chestplate - Tier VIII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier VII":1
+  }
+ },
+ "Perfect Chestplate - Tier IX":{
+  "Perfect Chestplate - Tier IX":{
+   "Enchanted Diamond Block":4,
+   "Perfect Chestplate - Tier VIII":1
+  }
+ },
+ "Perfect Helmet - Tier I":{
+  "Perfect Helmet - Tier I":{
+   "Enchanted Diamond Block":5
+  }
+ },
+ "Perfect Helmet - Tier X":{
+  "Perfect Helmet - Tier X":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier IX":1
+  }
+ },
+ "Perfect Helmet - Tier XI":{
+  "Perfect Helmet - Tier XI":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier X":1
+  }
+ },
+ "Perfect Helmet - Tier XII":{
+  "Perfect Helmet - Tier XII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier XI":1
+  }
+ },
+ "Perfect Helmet - Tier II":{
+  "Perfect Helmet - Tier II":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier I":1
+  }
+ },
+ "Perfect Helmet - Tier III":{
+  "Perfect Helmet - Tier III":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier II":1
+  }
+ },
+ "Perfect Helmet - Tier IV":{
+  "Perfect Helmet - Tier IV":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier III":1
+  }
+ },
+ "Perfect Helmet - Tier V":{
+  "Perfect Helmet - Tier V":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier IV":1
+  }
+ },
+ "Perfect Helmet - Tier VI":{
+  "Perfect Helmet - Tier VI":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier V":1
+  }
+ },
+ "Perfect Helmet - Tier VII":{
+  "Perfect Helmet - Tier VII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier VI":1
+  }
+ },
+ "Perfect Helmet - Tier VIII":{
+  "Perfect Helmet - Tier VIII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier VII":1
+  }
+ },
+ "Perfect Helmet - Tier IX":{
+  "Perfect Helmet - Tier IX":{
+   "Enchanted Diamond Block":4,
+   "Perfect Helmet - Tier VIII":1
+  }
+ },
+ "Perfect Leggings - Tier I":{
+  "Perfect Leggings - Tier I":{
+   "Enchanted Diamond Block":7
+  }
+ },
+ "Perfect Leggings - Tier X":{
+  "Perfect Leggings - Tier X":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier IX":1
+  }
+ },
+ "Perfect Leggings - Tier XI":{
+  "Perfect Leggings - Tier XI":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier X":1
+  }
+ },
+ "Perfect Leggings - Tier XII":{
+  "Perfect Leggings - Tier XII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier XI":1
+  }
+ },
+ "Perfect Leggings - Tier II":{
+  "Perfect Leggings - Tier II":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier I":1
+  }
+ },
+ "Perfect Leggings - Tier III":{
+  "Perfect Leggings - Tier III":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier II":1
+  }
+ },
+ "Perfect Leggings - Tier IV":{
+  "Perfect Leggings - Tier IV":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier III":1
+  }
+ },
+ "Perfect Leggings - Tier V":{
+  "Perfect Leggings - Tier V":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier IV":1
+  }
+ },
+ "Perfect Leggings - Tier VI":{
+  "Perfect Leggings - Tier VI":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier V":1
+  }
+ },
+ "Perfect Leggings - Tier VII":{
+  "Perfect Leggings - Tier VII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier VI":1
+  }
+ },
+ "Perfect Leggings - Tier VIII":{
+  "Perfect Leggings - Tier VIII":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier VII":1
+  }
+ },
+ "Perfect Leggings - Tier IX":{
+  "Perfect Leggings - Tier IX":{
+   "Enchanted Diamond Block":4,
+   "Perfect Leggings - Tier VIII":1
+  }
+ },
+ "Personal Bank Item":{
+  "Personal Bank Item":{
+   "Emerald":512,
+   "Enchanted Emerald":1
+  }
+ },
+ "Personal Compactor 4000":{
+  "Personal Compactor 4000":{
+   "Enchanted Redstone Block":7,
+   "Super Compactor 3000":1
+  }
+ },
+ "Personal Compactor 5000":{
+  "Personal Compactor 5000":{
+   "Enchanted Redstone Block":14,
+   "Personal Compactor 4000":1
+  }
+ },
+ "Personal Compactor 6000":{
+  "Personal Compactor 6000":{
+   "Enchanted Redstone Block":28,
+   "Personal Compactor 5000":1
+  }
+ },
+ "Exp Share":{
+  "Exp Share":{
+   "Enchanted Gold":72,
+   "Exp Share Core":1
+  }
+ },
+ "Lucky Clover":{
+  "Lucky Clover":{
+   "Enchanted Emerald":256,
+   "Lucky Clover Core":1
+  }
+ },
+ "Saddle":{
+  "Saddle":{
+   "Enchanted Leather":8
+  }
+ },
+ "Textbook":{
+  "Textbook":{
+   "Enchanted Lapis Block":8,
+   "Enchanted Paper":64
+  }
+ },
+ "Tier Boost":{
+  "Tier Boost":{
+   "Enchanted Iron Block":10,
+   "Tier Boost Core":1
+  }
+ },
+ "[Lvl {LVL}] Pig":{
+  "[Lvl {LVL}] Pig":{
+   "Raw Porkchop":512,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Piggy Bank":{
+  "Piggy Bank":{
+   "Enchanted Pork":40,
+   "Chest":1
+  }
+ },
+ "[Lvl {LVL}] Pigman":{
+  "[Lvl {LVL}] Pigman":{
+   "Enchanted Grilled Pork":8,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Pigman Sword":{
+  "Pigman Sword":{
+   "Enchanted Grilled Pork":48,
+   "Stick":1
+  }
+ },
+ "Pig Minion I":{
+  "Pig Minion I":{
+   "Raw Porkchop":64,
+   "Wooden Sword":1
+  }
+ },
+ "Piston":{
+  "Piston":{
+   "Oak Wood Planks":3,
+   "Cobblestone":4,
+   "Iron Ingot":1,
+   "Redstone":1
+  }
+ },
+ "Sticky Piston":{
+  "Sticky Piston":{
+   "Slimeball":1,
+   "Piston":1
+  }
+ },
+ "Plasmaflux Power Orb":{
+  "Plasmaflux Power Orb":{
+   "Enchanted Obsidian":256,
+   "Plasma Nucleus":1,
+   "Golden Tooth":72,
+   "Overflux Power Orb":1
+  }
+ },
+ "Plasma Bucket":{
+  "Plasma Bucket":{
+   "Magma Bucket":2,
+   "Heat Core":1
+  }
+ },
+ "Polished Pumpkin":{
+  "Polished Pumpkin":{
+   "Enchanted Pumpkin":160
+  }
+ },
+ "Pond Island":{
+  "Pond Island":{
+   "Water Bucket":3,
+   "Sand":15,
+   "Prismarine":15
+  }
+ },
+ "Pooch Sword":{
+  "Pooch Sword":{
+   "Golden Tooth":48,
+   "Shaman Sword":1
+  }
+ },
+ "Potato Minion I":{
+  "Potato Minion I":{
+   "Potato":128,
+   "Wooden Hoe":1
+  }
+ },
+ "Potion Affinity Talisman":{
+  "Potion Affinity Talisman":{
+   "Nether Wart":144
+  }
+ },
+ "Minecart with Furnace":{
+  "Minecart with Furnace":{
+   "Furnace":1,
+   "Minecart":1
+  }
+ },
+ "Powered Rail":{
+  "Powered Rail":{
+   "Gold Ingot":6,
+   "Stick":1,
+   "Redstone":1
+  }
+ },
+ "Necron's Boots":{
+  "Necron's Boots":{
+   "Diamante's Handle":8,
+   "Wither Boots":1
+  }
+ },
+ "Necron's Chestplate":{
+  "Necron's Chestplate":{
+   "Diamante's Handle":8,
+   "Wither Chestplate":1
+  }
+ },
+ "Necron's Helmet":{
+  "Necron's Helmet":{
+   "Diamante's Handle":8,
+   "Wither Helmet":1
+  }
+ },
+ "Necron's Leggings":{
+  "Necron's Leggings":{
+   "Diamante's Handle":8,
+   "Wither Leggings":1
+  }
+ },
+ "Prismarine Bricks":{
+  "Prismarine Bricks":{
+   "Prismarine Shard":9
+  }
+ },
+ "Dark Prismarine":{
+  "Dark Prismarine":{
+   "Prismarine Shard":8,
+   "Ink Sac":1
+  }
+ },
+ "Prismarine":{
+  "Prismarine":{
+   "Prismarine Shard":4
+  }
+ },
+ "Prismarine Blade":{
+  "Prismarine Blade":{
+   "Prismarine Shard":64,
+   "Stick":1
+  }
+ },
+ "Prismarine Bow":{
+  "Prismarine Bow":{
+   "Prismarine Shard":48,
+   "String":3
+  }
+ },
+ "Prismarine Rod":{
+  "Prismarine Rod":{
+   "Prismarine Crystals":1,
+   "Prismarine Shard":2,
+   "String":2
+  }
+ },
+ "Promising Axe":{
+  "Promising Axe":{
+   "Block of Iron":3,
+   "Stick":2
+  }
+ },
+ "Protector Dragon Boots":{
+  "Protector Dragon Boots":{
+   "Protector Dragon Fragment":40
+  }
+ },
+ "Protector Dragon Chestplate":{
+  "Protector Dragon Chestplate":{
+   "Protector Dragon Fragment":80
+  }
+ },
+ "Protector Dragon Helmet":{
+  "Protector Dragon Helmet":{
+   "Protector Dragon Fragment":50
+  }
+ },
+ "Protector Dragon Leggings":{
+  "Protector Dragon Leggings":{
+   "Protector Dragon Fragment":70
+  }
+ },
+ "Pufferfish Hat":{
+  "Pufferfish Hat":{
+   "Pufferfish":8
+  }
+ },
+ "Pumpkin Boots":{
+  "Pumpkin Boots":{
+   "Pumpkin":4
+  }
+ },
+ "Pumpkin Chestplate":{
+  "Pumpkin Chestplate":{
+   "Pumpkin":8
+  }
+ },
+ "Pumpkin Minion I":{
+  "Pumpkin Minion I":{
+   "Pumpkin":80,
+   "Wooden Hoe":1
+  }
+ },
+ "Pumpkin Helmet":{
+  "Pumpkin Helmet":{
+   "Pumpkin":5
+  }
+ },
+ "Pumpkin Launcher":{
+  "Pumpkin Launcher":{
+   "Pumpkin Guts":24,
+   "Ectoplasm":40,
+   "Blast o' Lantern":64
+  }
+ },
+ "Pumpkin Leggings":{
+  "Pumpkin Leggings":{
+   "Pumpkin":7
+  }
+ },
+ "Pumpkin Pie":{
+  "Pumpkin Pie":{
+   "Pumpkin":1,
+   "Sugar":1,
+   "Egg":1
+  }
+ },
+ "Pumpkin Seeds":{
+  "Pumpkin Seeds":{
+   "Pumpkin":1
+  }
+ },
+ "Chiseled Quartz Block":{
+  "Chiseled Quartz Block":{
+   "Quartz Slab":2
+  }
+ },
+ "Pillar Quartz Block":{
+  "Pillar Quartz Block":{
+   "Block of Quartz":2
+  }
+ },
+ "Block of Quartz":{
+  "Block of Quartz":{
+   "Nether Quartz":4
+  }
+ },
+ "Quartz Minion I":{
+  "Quartz Minion I":{
+   "Nether Quartz":80,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Quartz Stairs":{
+  "Quartz Stairs":{
+   "Block of Quartz":6
+  }
+ },
+ "[Lvl {LVL}] Rabbit":{
+  "[Lvl {LVL}] Rabbit":{
+   "Raw Rabbit":64,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Rabbit Minion I":{
+  "Rabbit Minion I":{
+   "Raw Rabbit":80,
+   "Wooden Sword":1
+  }
+ },
+ "Rabbit Stew":{
+  "Rabbit Stew":{
+   "Cooked Rabbit":1,
+   "Carrot":1,
+   "Baked Potato":1,
+   "Mushroom":1,
+   "Bowl":1
+  }
+ },
+ "Radiant Power Orb":{
+  "Radiant Power Orb":{
+   "Wolf Tooth":16,
+   "Enchanted Emerald":8
+  }
+ },
+ "Raggedy Shark Tooth Necklace":{
+  "Raggedy Shark Tooth Necklace":{
+   "Shark Fin":8,
+   "Nurse Shark Tooth":1
+  }
+ },
+ "Rail":{
+  "Rail":{
+   "Iron Ingot":6,
+   "Stick":1
+  }
+ },
+ "Razor-sharp Shark Tooth Necklace":{
+  "Razor-sharp Shark Tooth Necklace":{
+   "Great White Shark Tooth":4,
+   "Sharp Shark Tooth Necklace":1
+  }
+ },
+ "Reaper Mask":{
+  "Reaper Mask":{
+   "Revenant Viscera":128,
+   "Beheaded Horror":1,
+   "Enchanted String":32,
+   "Revived Heart":1
+  }
+ },
+ "Reaper Scythe":{
+  "Reaper Scythe":{
+   "Scythe Blade":1,
+   "Revenant Viscera":64,
+   "Reaper Falchion":3
+  }
+ },
+ "Reaper Falchion":{
+  "Reaper Falchion":{
+   "Revived Heart":1,
+   "Revenant Catalyst":1,
+   "Revenant Falchion":1
+  }
+ },
+ "Recluse Fang":{
+  "Recluse Fang":{
+   "Tarantula Web":28,
+   "Spider Catalyst":1,
+   "Spider Sword":1
+  }
+ },
+ "Redstone":{
+  "Redstone":{
+   "Block of Redstone":1
+  }
+ },
+ "Block of Redstone":{
+  "Block of Redstone":{
+   "Redstone":9
+  }
+ },
+ "Redstone Comparator":{
+  "Redstone Comparator":{
+   "Redstone Torch":3,
+   "Nether Quartz":1,
+   "Stone":3
+  }
+ },
+ "Redstone Minion I":{
+  "Redstone Minion I":{
+   "Redstone":128,
+   "Wooden Pickaxe":1
+  }
+ },
+ "Redstone Lamp":{
+  "Redstone Lamp":{
+   "Redstone":4,
+   "Glowstone":1
+  }
+ },
+ "Redstone Torch":{
+  "Redstone Torch":{
+   "Redstone":1,
+   "Stick":1
+  }
+ },
+ "Red Claw Artifact":{
+  "Red Claw Artifact":{
+   "Enchanted Leather":256,
+   "Golden Tooth":54,
+   "Red Claw Egg":1,
+   "Red Claw Ring":1
+  }
+ },
+ "Red Claw Ring":{
+  "Red Claw Ring":{
+   "Enchanted Leather":32,
+   "Golden Tooth":8,
+   "Red Claw Talisman":1
+  }
+ },
+ "Red Claw Talisman":{
+  "Red Claw Talisman":{
+   "Wolf Tooth":8,
+   "Enchanted Bone":1
+  }
+ },
+ "Chiseled Red Sandstone":{
+  "Chiseled Red Sandstone":{
+   "Red Sandstone Slab":2
+  }
+ },
+ "Smooth Red Sandstone":{
+  "Smooth Red Sandstone":{
+   "Red Sandstone":4
+  }
+ },
+ "Red Sandstone":{
+  "Red Sandstone":{
+   "Red Sand":4
+  }
+ },
+ "Red Sandstone Stairs":{
+  "Red Sandstone Stairs":{
+   "Red Sandstone":6
+  }
+ },
+ "Reinforced Scales":{
+  "Reinforced Scales":{
+   "Enchanted Gold Block":18,
+   "Hardened Scales":1,
+   "Zog Anvil":1
+  }
+ },
+ "Repelling Candle":{
+  "Repelling Candle":{
+   "Enchanted Coal":1,
+   "Enchanted Acacia Wood":6
+  }
+ },
+ "Revenant Boots":{
+  "Revenant Boots":{
+   "Enchanted Diamond":64,
+   "Revenant Viscera":2
+  }
+ },
+ "Revenant Chestplate":{
+  "Revenant Chestplate":{
+   "Enchanted Diamond":128,
+   "Zombie Chestplate":1,
+   "Revenant Viscera":3
+  }
+ },
+ "Revenant Minion I":{
+  "Revenant Minion I":{
+   "Revenant Flesh":80,
+   "Crystallized Heart":1
+  }
+ },
+ "Revenant Leggings":{
+  "Revenant Leggings":{
+   "Revenant Viscera":3,
+   "Enchanted Diamond":64
+  }
+ },
+ "Revenant Falchion":{
+  "Revenant Falchion":{
+   "Crystallized Heart":1,
+   "Undead Catalyst":1,
+   "Undead Sword":1
+  }
+ },
+ "Revenant Viscera":{
+  "Revenant Viscera":{
+   "Revenant Flesh":128,
+   "Enchanted String":32
+  }
+ },
+ "Revived Heart":{
+  "Revived Heart":{
+   "Zombie's Heart":8,
+   "Crystallized Heart":1
+  }
+ },
+ "Potion Affinity Ring":{
+  "Potion Affinity Ring":{
+   "Enchanted Nether Wart":8,
+   "Potion Affinity Talisman":1
+  }
+ },
+ "Rod of the Sea":{
+  "Rod of the Sea":{
+   "Enchanted Shark Fin":4,
+   "Great White Shark Tooth":4,
+   "Rod of Legends":1
+  }
+ },
+ "Roofed Forest Biome Stick":{
+  "Roofed Forest Biome Stick":{
+   "Dark Oak Leaves":64,
+   "Stick":2
+  }
+ },
+ "Roofed Forest Island":{
+  "Roofed Forest Island":{
+   "Dark Oak Wood":15,
+   "Dirt":30
+  }
+ },
+ "Runaan's Bow":{
+  "Runaan's Bow":{
+   "Enchanted Bone":192,
+   "Enchanted String":192
+  }
+ },
+ "Salmon Boots":{
+  "Salmon Boots":{
+   "Enchanted Raw Salmon":4
+  }
+ },
+ "Salmon Chestplate":{
+  "Salmon Chestplate":{
+   "Enchanted Raw Salmon":8
+  }
+ },
+ "Salmon Helmet":{
+  "Salmon Helmet":{
+   "Enchanted Raw Salmon":5
+  }
+ },
+ "Salmon Leggings":{
+  "Salmon Leggings":{
+   "Enchanted Raw Salmon":7
+  }
+ },
+ "Chiseled Sandstone":{
+  "Chiseled Sandstone":{
+   "Sandstone Slab":2
+  }
+ },
+ "Smooth Sandstone":{
+  "Smooth Sandstone":{
+   "Sandstone":4
+  }
+ },
+ "Sandstone":{
+  "Sandstone":{
+   "Sand":4
+  }
+ },
+ "Sandstone Stairs":{
+  "Sandstone Stairs":{
+   "Sandstone":6
+  }
+ },
+ "Sand Minion I":{
+  "Sand Minion I":{
+   "Sand":80,
+   "Wooden Shovel":1
+  }
+ },
+ "Savanna Biome Stick":{
+  "Savanna Biome Stick":{
+   "Acacia Leaves":64,
+   "Stick":2
+  }
+ },
+ "Savanna Bow":{
+  "Savanna Bow":{
+   "Enchanted Acacia Wood":3,
+   "Enchanted String":3
+  }
+ },
+ "Saving Grace":{
+  "Saving Grace":{
+   "Enchanted Ender Pearl":128,
+   "Golden Apple":16
+  }
+ },
+ "Scarf's Grimoire":{
+  "Scarf's Grimoire":{
+   "Scarf's Thesis":4
+  }
+ },
+ "Scarf's Thesis":{
+  "Scarf's Thesis":{
+   "Scarf's Studies":4
+  }
+ },
+ "Scorpion Bow":{
+  "Scorpion Bow":{
+   "Enchanted Emerald":64,
+   "Tarantula Silk":48,
+   "Enchanted Gold":32
+  }
+ },
+ "Scorpion Foil":{
+  "Scorpion Foil":{
+   "Tarantula Silk":24,
+   "Enchanted Acacia Wood":128,
+   "Stick":1
+  }
+ },
+ "Sculptor's Axe":{
+  "Sculptor's Axe":{
+   "Birch Wood":192,
+   "Stick":2
+  }
+ },
+ "Scylla":{
+  "Scylla":{
+   "Bigfoot's Lasso":8,
+   "Necron's Blade (Unrefined)":1
+  }
+ },
+ "Sea Creature Artifact":{
+  "Sea Creature Artifact":{
+   "Enchanted Sponge":64,
+   "Sea Creature Ring":1
+  }
+ },
+ "Sea Creature Ring":{
+  "Sea Creature Ring":{
+   "Sponge":6,
+   "Enchanted Sponge":2,
+   "Sea Creature Talisman":1
+  }
+ },
+ "Sea Creature Talisman":{
+  "Sea Creature Talisman":{
+   "Sponge":18
+  }
+ },
+ "Sea Lantern":{
+  "Sea Lantern":{
+   "Prismarine Shard":4,
+   "Prismarine Crystals":5
+  }
+ },
+ "Sea Lantern Hat":{
+  "Sea Lantern Hat":{
+   "Prismarine Crystals":5
+  }
+ },
+ "Serrated Claws":{
+  "Serrated Claws":{
+   "Enchanted Gold Block":18,
+   "Sharpened Claws":1,
+   "Zog Anvil":1
+  }
+ },
+ "Shaman Sword":{
+  "Shaman Sword":{
+   "Golden Tooth":2,
+   "Enchanted Iron":8,
+   "Enchanted Bone":4
+  }
+ },
+ "Shark Bait":{
+  "Shark Bait":{
+   "Shark Fin":2
+  }
+ },
+ "Sharp Shark Tooth Necklace":{
+  "Sharp Shark Tooth Necklace":{
+   "Tiger Shark Tooth":4,
+   "Honed Shark Tooth Necklace":1
+  }
+ },
+ "Shears":{
+  "Shears":{
+   "Iron Ingot":2
+  }
+ },
+ "[Lvl {LVL}] Sheep":{
+  "[Lvl {LVL}] Sheep":{
+   "Enchanted Mutton":512,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Sheep Minion I":{
+  "Sheep Minion I":{
+   "Raw Mutton":64,
+   "Wooden Sword":1
+  }
+ },
+ "Sign":{
+  "Sign":{
+   "Oak Wood Planks":6,
+   "Stick":1
+  }
+ },
+ "Silence Block":{
+  "Silence Block":{
+   "Enchanted End Stone":8,
+   "Note Block":1
+  }
+ },
+ "Silk-Edge Sword":{
+  "Silk-Edge Sword":{
+   "Enchanted Fermented Spider Eye":24,
+   "Silky Lichen":1,
+   "Leaping Sword":1
+  }
+ },
+ "[Lvl {LVL}] Silverfish":{
+  "[Lvl {LVL}] Silverfish":{
+   "Enchanted Cobblestone":64,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Silver Fang":{
+  "Silver Fang":{
+   "Enchanted Ghast Tear":25
+  }
+ },
+ "Simple Carrot Candy":{
+  "Simple Carrot Candy":{
+   "Carrot":576
+  }
+ },
+ "[Lvl {LVL}] Skeleton":{
+  "[Lvl {LVL}] Skeleton":{
+   "Enchanted Bone":128,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Skeleton Minion I":{
+  "Skeleton Minion I":{
+   "Bone":80,
+   "Wooden Sword":1
+  }
+ },
+ "Skeleton Hat":{
+  "Skeleton Hat":{
+   "Bone":8
+  }
+ },
+ "Skeleton's Helmet":{
+  "Skeleton's Helmet":{
+   "Enchanted Bone":320
+  }
+ },
+ "Slimeball":{
+  "Slimeball":{
+   "Slime Block":1
+  }
+ },
+ "Slime Block":{
+  "Slime Block":{
+   "Slimeball":9
+  }
+ },
+ "Slime Bow":{
+  "Slime Bow":{
+   "Enchanted Slime Block":15,
+   "Enchanted String":3
+  }
+ },
+ "Slime Minion I":{
+  "Slime Minion I":{
+   "Slimeball":80,
+   "Wooden Sword":1
+  }
+ },
+ "Slime Hat":{
+  "Slime Hat":{
+   "Slimeball":8
+  }
+ },
+ "Small Agronomy Sack":{
+  "Small Agronomy Sack":{
+   "Enchanted Hay Bale":16,
+   "Enchanted Leather":1
+  }
+ },
+ "Small Backpack":{
+  "Small Backpack":{
+   "Leather":80
+  }
+ },
+ "Small Combat Sack":{
+  "Small Combat Sack":{
+   "Enchanted Rotten Flesh":16,
+   "Enchanted Leather":1
+  }
+ },
+ "Small Storage":{
+  "Small Storage":{
+   "Oak Wood":64
+  }
+ },
+ "Small Fishing Sack":{
+  "Small Fishing Sack":{
+   "Enchanted Pufferfish":16,
+   "Enchanted Leather":1
+  }
+ },
+ "Small Foraging Sack":{
+  "Small Foraging Sack":{
+   "Enchanted Birch Wood":16,
+   "Enchanted Leather":1
+  }
+ },
+ "Small Husbandry Sack":{
+  "Small Husbandry Sack":{
+   "Enchanted Mutton":16,
+   "Enchanted Leather":1
+  }
+ },
+ "Small Mining Sack":{
+  "Small Mining Sack":{
+   "Enchanted Coal":16,
+   "Enchanted Leather":1
+  }
+ },
+ "Small Slayer Sack":{
+  "Small Slayer Sack":{
+   "Revenant Viscera":8,
+   "Enchanted Leather":1
+  }
+ },
+ "Mossy Stone Bricks":{
+  "Mossy Stone Bricks":{
+   "Stone Bricks":1,
+   "Vines":1
+  }
+ },
+ "Chiseled Stone Bricks":{
+  "Chiseled Stone Bricks":{
+   "Stone Bricks Slab":2
+  }
+ },
+ "Stone Bricks":{
+  "Stone Bricks":{
+   "Stone":4
+  }
+ },
+ "Stone Brick Stairs":{
+  "Stone Brick Stairs":{
+   "Stone Bricks":6
+  }
+ },
+ "Snow":{
+  "Snow":{
+   "Snowball":4
+  }
+ },
+ "Snow Minion II":{
+  "Snow Minion II":{
+   "Snow":32,
+   "Snow Minion I":1
+  }
+ },
+ "Solar Panel":{
+  "Solar Panel":{
+   "Glass":3,
+   "Enchanted Quartz":192,
+   "Oak Wood Planks":3
+  }
+ },
+ "Glistering Melon":{
+  "Glistering Melon":{
+   "Gold Nugget":8,
+   "Melon":1
+  }
+ },
+ "Speedster Boots":{
+  "Speedster Boots":{
+   "Enchanted Sugar Cane":4
+  }
+ },
+ "Speedster Chestplate":{
+  "Speedster Chestplate":{
+   "Enchanted Sugar Cane":8
+  }
+ },
+ "Speedster Helmet":{
+  "Speedster Helmet":{
+   "Enchanted Sugar Cane":5
+  }
+ },
+ "Speedster Leggings":{
+  "Speedster Leggings":{
+   "Enchanted Sugar Cane":7
+  }
+ },
+ "Speedster Rod":{
+  "Speedster Rod":{
+   "Raw Salmon":96,
+   "String":2
+  }
+ },
+ "Speed Artifact":{
+  "Speed Artifact":{
+   "Enchanted Sugar Cane":48,
+   "Speed Ring":1
+  }
+ },
+ "Speed Ring":{
+  "Speed Ring":{
+   "Enchanted Sugar":96,
+   "Speed Talisman":1
+  }
+ },
+ "Speed Talisman":{
+  "Speed Talisman":{
+   "Sugar Canes":108
+  }
+ },
+ "Maxor's Boots":{
+  "Maxor's Boots":{
+   "Bigfoot's Lasso":8,
+   "Wither Boots":1
+  }
+ },
+ "Maxor's Chestplate":{
+  "Maxor's Chestplate":{
+   "Bigfoot's Lasso":8,
+   "Wither Chestplate":1
+  }
+ },
+ "Maxor's Helmet":{
+  "Maxor's Helmet":{
+   "Bigfoot's Lasso":8,
+   "Wither Helmet":1
+  }
+ },
+ "Maxor's Leggings":{
+  "Maxor's Leggings":{
+   "Bigfoot's Lasso":8,
+   "Wither Leggings":1
+  }
+ },
+ "[Lvl {LVL}] Spider":{
+  "[Lvl {LVL}] Spider":{
+   "Enchanted String":512,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Spider Artifact":{
+  "Spider Artifact":{
+   "Enchanted Emerald":32,
+   "Tarantula Silk":32,
+   "Spider Ring":1
+  }
+ },
+ "Spider's Boots":{
+  "Spider's Boots":{
+   "Enchanted String":256
+  }
+ },
+ "Spider Minion I":{
+  "Spider Minion I":{
+   "String":80,
+   "Wooden Sword":1
+  }
+ },
+ "Spider Hat":{
+  "Spider Hat":{
+   "Spider Eye":8
+  }
+ },
+ "Spider Ring":{
+  "Spider Ring":{
+   "Tarantula Web":64,
+   "Spider Talisman":1
+  }
+ },
+ "Spider Sword":{
+  "Spider Sword":{
+   "Spider Eye":2,
+   "Stick":1
+  }
+ },
+ "Spiked Bait":{
+  "Spiked Bait":{
+   "Raw Fish":1,
+   "Pufferfish":1
+  }
+ },
+ "Spongy Shoes":{
+  "Spongy Shoes":{
+   "Enchanted Wet Sponge":4
+  }
+ },
+ "Sponge Chestplate":{
+  "Sponge Chestplate":{
+   "Enchanted Wet Sponge":8
+  }
+ },
+ "Sponge Helmet":{
+  "Sponge Helmet":{
+   "Enchanted Wet Sponge":5
+  }
+ },
+ "Sponge Leggings":{
+  "Sponge Leggings":{
+   "Enchanted Wet Sponge":7
+  }
+ },
+ "Sponge Rod":{
+  "Sponge Rod":{
+   "Sponge":3,
+   "String":2
+  }
+ },
+ "Spooky Bait":{
+  "Spooky Bait":{
+   "Pumpkin":1,
+   "Raw Fish":1
+  }
+ },
+ "Spray Can":{
+  "Spray Can":{
+   "Glass":7,
+   "Redstone":1
+  }
+ },
+ "Spruce Door":{
+  "Spruce Door":{
+   "Spruce Wood Planks":6
+  }
+ },
+ "Spruce Fence":{
+  "Spruce Fence":{
+   "Spruce Wood Planks":4,
+   "Stick":2
+  }
+ },
+ "Spruce Fence Gate":{
+  "Spruce Fence Gate":{
+   "Stick":4,
+   "Spruce Wood Planks":2
+  }
+ },
+ "Spruce Minion I":{
+  "Spruce Minion I":{
+   "Spruce Wood":80,
+   "Wooden Axe":1
+  }
+ },
+ "Spruce Wood Stairs":{
+  "Spruce Wood Stairs":{
+   "Spruce Wood Planks":6
+  }
+ },
+ "Squid Hat":{
+  "Squid Hat":{
+   "Ink Sac":8
+  }
+ },
+ "Orange Stained Clay":{
+  "Orange Stained Clay":{
+   "Hardened Clay":8,
+   "Orange Dye":1
+  }
+ },
+ "Purple Stained Clay":{
+  "Purple Stained Clay":{
+   "Hardened Clay":8,
+   "Purple Dye":1
+  }
+ },
+ "Blue Stained Clay":{
+  "Blue Stained Clay":{
+   "Hardened Clay":8,
+   "Lapis Lazuli":1
+  }
+ },
+ "Brown Stained Clay":{
+  "Brown Stained Clay":{
+   "Hardened Clay":8,
+   "Cocoa Beans":1
+  }
+ },
+ "Green Stained Clay":{
+  "Green Stained Clay":{
+   "Hardened Clay":8,
+   "Cactus Green":1
+  }
+ },
+ "Red Stained Clay":{
+  "Red Stained Clay":{
+   "Hardened Clay":8,
+   "Rose Red":1
+  }
+ },
+ "Black Stained Clay":{
+  "Black Stained Clay":{
+   "Hardened Clay":8,
+   "Ink Sac":1
+  }
+ },
+ "Magenta Stained Clay":{
+  "Magenta Stained Clay":{
+   "Hardened Clay":8,
+   "Magenta Dye":1
+  }
+ },
+ "Light Blue Stained Clay":{
+  "Light Blue Stained Clay":{
+   "Hardened Clay":8,
+   "Light Blue Dye":1
+  }
+ },
+ "Yellow Stained Clay":{
+  "Yellow Stained Clay":{
+   "Hardened Clay":8,
+   "Dandelion Yellow":1
+  }
+ },
+ "Lime Stained Clay":{
+  "Lime Stained Clay":{
+   "Hardened Clay":8,
+   "Lime Dye":1
+  }
+ },
+ "Pink Stained Clay":{
+  "Pink Stained Clay":{
+   "Hardened Clay":8,
+   "Pink Dye":1
+  }
+ },
+ "Gray Stained Clay":{
+  "Gray Stained Clay":{
+   "Hardened Clay":8,
+   "Gray Dye":1
+  }
+ },
+ "Light Gray Stained Clay":{
+  "Light Gray Stained Clay":{
+   "Hardened Clay":8,
+   "Light Gray Dye":1
+  }
+ },
+ "Cyan Stained Clay":{
+  "Cyan Stained Clay":{
+   "Hardened Clay":8,
+   "Cyan Dye":1
+  }
+ },
+ "White Stained Clay":{
+  "White Stained Clay":{
+   "Hardened Clay":8,
+   "Bone Meal":1
+  }
+ },
+ "Orange Stained Glass":{
+  "Orange Stained Glass":{
+   "Glass":8,
+   "Orange Dye":1
+  }
+ },
+ "Purple Stained Glass":{
+  "Purple Stained Glass":{
+   "Glass":8,
+   "Purple Dye":1
+  }
+ },
+ "Blue Stained Glass":{
+  "Blue Stained Glass":{
+   "Glass":8,
+   "Lapis Lazuli":1
+  }
+ },
+ "Brown Stained Glass":{
+  "Brown Stained Glass":{
+   "Glass":8,
+   "Cocoa Beans":1
+  }
+ },
+ "Green Stained Glass":{
+  "Green Stained Glass":{
+   "Glass":8,
+   "Cactus Green":1
+  }
+ },
+ "Red Stained Glass":{
+  "Red Stained Glass":{
+   "Glass":8,
+   "Rose Red":1
+  }
+ },
+ "Black Stained Glass":{
+  "Black Stained Glass":{
+   "Glass":8,
+   "Ink Sac":1
+  }
+ },
+ "Magenta Stained Glass":{
+  "Magenta Stained Glass":{
+   "Glass":8,
+   "Magenta Dye":1
+  }
+ },
+ "Light Blue Stained Glass":{
+  "Light Blue Stained Glass":{
+   "Glass":8,
+   "Light Blue Dye":1
+  }
+ },
+ "Yellow Stained Glass":{
+  "Yellow Stained Glass":{
+   "Glass":8,
+   "Dandelion Yellow":1
+  }
+ },
+ "Lime Stained Glass":{
+  "Lime Stained Glass":{
+   "Glass":8,
+   "Lime Dye":1
+  }
+ },
+ "Pink Stained Glass":{
+  "Pink Stained Glass":{
+   "Glass":8,
+   "Pink Dye":1
+  }
+ },
+ "Gray Stained Glass":{
+  "Gray Stained Glass":{
+   "Glass":8,
+   "Gray Dye":1
+  }
+ },
+ "Light Gray Stained Glass":{
+  "Light Gray Stained Glass":{
+   "Glass":8,
+   "Light Gray Dye":1
+  }
+ },
+ "Cyan Stained Glass":{
+  "Cyan Stained Glass":{
+   "Glass":8,
+   "Cyan Dye":1
+  }
+ },
+ "White Stained Glass":{
+  "White Stained Glass":{
+   "Glass":8,
+   "Bone Meal":1
+  }
+ },
+ "Orange Stained Glass Pane":{
+  "Orange Stained Glass Pane":{
+   "Orange Stained Glass":6
+  }
+ },
+ "Purple Stained Glass Pane":{
+  "Purple Stained Glass Pane":{
+   "Purple Stained Glass":6
+  }
+ },
+ "Blue Stained Glass Pane":{
+  "Blue Stained Glass Pane":{
+   "Blue Stained Glass":6
+  }
+ },
+ "Brown Stained Glass Pane":{
+  "Brown Stained Glass Pane":{
+   "Brown Stained Glass":6
+  }
+ },
+ "Green Stained Glass Pane":{
+  "Green Stained Glass Pane":{
+   "Green Stained Glass":6
+  }
+ },
+ "Red Stained Glass Pane":{
+  "Red Stained Glass Pane":{
+   "Red Stained Glass":6
+  }
+ },
+ "Black Stained Glass Pane":{
+  "Black Stained Glass Pane":{
+   "Black Stained Glass":6
+  }
+ },
+ "Magenta Stained Glass Pane":{
+  "Magenta Stained Glass Pane":{
+   "Magenta Stained Glass":6
+  }
+ },
+ "Light Blue Stained Glass Pane":{
+  "Light Blue Stained Glass Pane":{
+   "Light Blue Stained Glass":6
+  }
+ },
+ "Yellow Stained Glass Pane":{
+  "Yellow Stained Glass Pane":{
+   "Yellow Stained Glass":6
+  }
+ },
+ "Lime Stained Glass Pane":{
+  "Lime Stained Glass Pane":{
+   "Lime Stained Glass":6
+  }
+ },
+ "Pink Stained Glass Pane":{
+  "Pink Stained Glass Pane":{
+   "Pink Stained Glass":6
+  }
+ },
+ "Gray Stained Glass Pane":{
+  "Gray Stained Glass Pane":{
+   "Gray Stained Glass":6
+  }
+ },
+ "Light Gray Stained Glass Pane":{
+  "Light Gray Stained Glass Pane":{
+   "Light Gray Stained Glass":6
+  }
+ },
+ "Cyan Stained Glass Pane":{
+  "Cyan Stained Glass Pane":{
+   "Cyan Stained Glass":6
+  }
+ },
+ "White Stained Glass Pane":{
+  "White Stained Glass Pane":{
+   "White Stained Glass":6
+  }
+ },
+ "\u269a Adaptive Boots":{
+  "\u269a Adaptive Boots":{
+   "Scarf Fragment":8,
+   "Adaptive Boots":1
+  }
+ },
+ "\u269a Adaptive Chestplate":{
+  "\u269a Adaptive Chestplate":{
+   "Scarf Fragment":8,
+   "Adaptive Chestplate":1
+  }
+ },
+ "\u269a Adaptive Helm":{
+  "\u269a Adaptive Helm":{
+   "Scarf Fragment":8,
+   "Adaptive Helm":1
+  }
+ },
+ "\u269a Adaptive Leggings":{
+  "\u269a Adaptive Leggings":{
+   "Scarf Fragment":8,
+   "Adaptive Leggings":1
+  }
+ },
+ "\u269a Bonzo's Mask":{
+  "\u269a Bonzo's Mask":{
+   "Bonzo Fragment":8,
+   "Bonzo's Mask":1
+  }
+ },
+ "\u269a Bonzo's Staff":{
+  "\u269a Bonzo's Staff":{
+   "Bonzo Fragment":8,
+   "Bonzo's Staff":1
+  }
+ },
+ "\u269a Last Breath":{
+  "\u269a Last Breath":{
+   "Livid Fragment":8,
+   "Last Breath":1
+  }
+ },
+ "\u269a Shadow Assassin Boots":{
+  "\u269a Shadow Assassin Boots":{
+   "Livid Fragment":8,
+   "Shadow Assassin Boots":1
+  }
+ },
+ "\u269a Shadow Assassin Chestplate":{
+  "\u269a Shadow Assassin Chestplate":{
+   "Livid Fragment":8,
+   "Shadow Assassin Chestplate":1
+  }
+ },
+ "\u269a Shadow Assassin Helmet":{
+  "\u269a Shadow Assassin Helmet":{
+   "Livid Fragment":8,
+   "Shadow Assassin Helmet":1
+  }
+ },
+ "\u269a Shadow Assassin Leggings":{
+  "\u269a Shadow Assassin Leggings":{
+   "Livid Fragment":8,
+   "Shadow Assassin Leggings":1
+  }
+ },
+ "\u269a Shadow Fury":{
+  "\u269a Shadow Fury":{
+   "Livid Fragment":8,
+   "Shadow Fury":1
+  }
+ },
+ "\u269a Adaptive Blade":{
+  "\u269a Adaptive Blade":{
+   "Scarf Fragment":8,
+   "Adaptive Blade":1
+  }
+ },
+ "Sandstone Slab":{
+  "Sandstone Slab":{
+   "Sandstone":3
+  }
+ },
+ "Cobblestone Slab":{
+  "Cobblestone Slab":{
+   "Cobblestone":3
+  }
+ },
+ "Bricks Slab":{
+  "Bricks Slab":{
+   "Bricks":3
+  }
+ },
+ "Stone Bricks Slab":{
+  "Stone Bricks Slab":{
+   "Stone Bricks":3
+  }
+ },
+ "Nether Brick Slab":{
+  "Nether Brick Slab":{
+   "Nether Brick":3
+  }
+ },
+ "Quartz Slab":{
+  "Quartz Slab":{
+   "Block of Quartz":3
+  }
+ },
+ "Stone Slab":{
+  "Stone Slab":{
+   "Stone":3
+  }
+ },
+ "Stick":{
+  "Stick":{
+   "Oak Wood Planks":2
+  }
+ },
+ "Granite":{
+  "Granite":{
+   "Diorite":1,
+   "Nether Quartz":1
+  }
+ },
+ "Polished Granite":{
+  "Polished Granite":{
+   "Granite":4
+  }
+ },
+ "Diorite":{
+  "Diorite":{
+   "Cobblestone":2,
+   "Nether Quartz":2
+  }
+ },
+ "Polished Diorite":{
+  "Polished Diorite":{
+   "Diorite":4
+  }
+ },
+ "Andesite":{
+  "Andesite":{
+   "Diorite":1,
+   "Cobblestone":1
+  }
+ },
+ "Polished Andesite":{
+  "Polished Andesite":{
+   "Andesite":4
+  }
+ },
+ "Stone Axe":{
+  "Stone Axe":{
+   "Cobblestone":3,
+   "Stick":2
+  }
+ },
+ "Stone Platform":{
+  "Stone Platform":{
+   "Stone Bricks":64,
+   "Egg":1
+  }
+ },
+ "Button":{
+  "Button":{
+   "Oak Wood Planks":1
+  }
+ },
+ "Stone Hoe":{
+  "Stone Hoe":{
+   "Cobblestone":2,
+   "Stick":2
+  }
+ },
+ "Stone Pickaxe":{
+  "Stone Pickaxe":{
+   "Cobblestone":3,
+   "Stick":2
+  }
+ },
+ "Stone Pressure Plate":{
+  "Stone Pressure Plate":{
+   "Stone":2
+  }
+ },
+ "Red Sandstone Slab":{
+  "Red Sandstone Slab":{
+   "Red Sandstone":3
+  }
+ },
+ "Stone Shovel":{
+  "Stone Shovel":{
+   "Cobblestone":1,
+   "Stick":2
+  }
+ },
+ "Stone Sword":{
+  "Stone Sword":{
+   "Cobblestone":2,
+   "Stick":1
+  }
+ },
+ "Minecart with Chest":{
+  "Minecart with Chest":{
+   "Chest":1,
+   "Minecart":1
+  }
+ },
+ "Strong Dragon Boots":{
+  "Strong Dragon Boots":{
+   "Strong Dragon Fragment":40
+  }
+ },
+ "Strong Dragon Chestplate":{
+  "Strong Dragon Chestplate":{
+   "Strong Dragon Fragment":80
+  }
+ },
+ "Strong Dragon Helmet":{
+  "Strong Dragon Helmet":{
+   "Strong Dragon Fragment":50
+  }
+ },
+ "Strong Dragon Leggings":{
+  "Strong Dragon Leggings":{
+   "Strong Dragon Fragment":70
+  }
+ },
+ "Sugar":{
+  "Sugar":{
+   "Sugar Canes":1
+  }
+ },
+ "Sugar Cane Minion I":{
+  "Sugar Cane Minion I":{
+   "Sugar Canes":128,
+   "Wooden Hoe":1
+  }
+ },
+ "Superb Carrot Candy":{
+  "Superb Carrot Candy":{
+   "Enchanted Golden Carrot":24,
+   "Great Carrot Candy":1
+  }
+ },
+ "Superior Dragon Boots":{
+  "Superior Dragon Boots":{
+   "Superior Dragon Fragment":40
+  }
+ },
+ "Superior Dragon Chestplate":{
+  "Superior Dragon Chestplate":{
+   "Superior Dragon Fragment":80
+  }
+ },
+ "Superior Dragon Helmet":{
+  "Superior Dragon Helmet":{
+   "Superior Dragon Fragment":50
+  }
+ },
+ "Superior Dragon Leggings":{
+  "Superior Dragon Leggings":{
+   "Superior Dragon Fragment":70
+  }
+ },
+ "Super Compactor 3000":{
+  "Super Compactor 3000":{
+   "Enchanted Cobblestone":448,
+   "Enchanted Redstone Block":1
+  }
+ },
+ "Super Enchanted Egg":{
+  "Super Enchanted Egg":{
+   "Enchanted Egg":144
+  }
+ },
+ "Taiga Biome Stick":{
+  "Taiga Biome Stick":{
+   "Spruce Leaves":64,
+   "Stick":2
+  }
+ },
+ "Goldor's Boots":{
+  "Goldor's Boots":{
+   "Jolly Pink Rock":8,
+   "Wither Boots":1
+  }
+ },
+ "Goldor's Chestplate":{
+  "Goldor's Chestplate":{
+   "Jolly Pink Rock":8,
+   "Wither Chestplate":1
+  }
+ },
+ "Goldor's Helmet":{
+  "Goldor's Helmet":{
+   "Jolly Pink Rock":8,
+   "Wither Helmet":1
+  }
+ },
+ "Goldor's Leggings":{
+  "Goldor's Leggings":{
+   "Jolly Pink Rock":8,
+   "Wither Leggings":1
+  }
+ },
+ "Tarantula Boots":{
+  "Tarantula Boots":{
+   "Tarantula Silk":4,
+   "Spider Catalyst":1,
+   "Enchanted Iron":192,
+   "Spider's Boots":1
+  }
+ },
+ "Tarantula Chestplate":{
+  "Tarantula Chestplate":{
+   "Enchanted Iron":256,
+   "Tarantula Silk":4
+  }
+ },
+ "Tarantula Minion I":{
+  "Tarantula Minion I":{
+   "Tarantula Web":80,
+   "Enchanted Fermented Spider Eye":1
+  }
+ },
+ "Tarantula Helmet":{
+  "Tarantula Helmet":{
+   "Tarantula Silk":3,
+   "Enchanted Iron":128
+  }
+ },
+ "Tarantula Leggings":{
+  "Tarantula Leggings":{
+   "Tarantula Silk":3,
+   "Enchanted Iron":256
+  }
+ },
+ "Tarantula Silk":{
+  "Tarantula Silk":{
+   "Tarantula Web":128,
+   "Enchanted Flint":32
+  }
+ },
+ "Turing Sugar Cane Hoe":{
+  "Turing Sugar Cane Hoe":{
+   "Jacob's Ticket":256,
+   "Enchanted Sugar Cane":256,
+   "Turing Sugar Cane Hoe":1
+  }
+ },
+ "Gauss Carrot Hoe":{
+  "Gauss Carrot Hoe":{
+   "Jacob's Ticket":256,
+   "Enchanted Golden Carrot":256,
+   "Gauss Carrot Hoe":1
+  }
+ },
+ "Pythagorean Potato Hoe":{
+  "Pythagorean Potato Hoe":{
+   "Jacob's Ticket":256,
+   "Enchanted Baked Potato":256,
+   "Pythagorean Potato Hoe":1
+  }
+ },
+ "Newton Nether Warts Hoe":{
+  "Newton Nether Warts Hoe":{
+   "Jacob's Ticket":256,
+   "Mutant Nether Wart":256,
+   "Newton Nether Warts Hoe":1
+  }
+ },
+ "Euclid's Wheat Hoe":{
+  "Euclid's Wheat Hoe":{
+   "Jacob's Ticket":256,
+   "Tightly-Tied Hay Bale":256,
+   "Euclid's Wheat Hoe":1
+  }
+ },
+ "Glass Pane":{
+  "Glass Pane":{
+   "Glass":6
+  }
+ },
+ "Tightly-tied Hay Bale":{
+  "Tightly-Tied Hay Bale":{
+   "Enchanted Hay Bale":144
+  }
+ },
+ "Titanic Experience Bottle":{
+  "Titanic Experience Bottle":{
+   "Enchanted Lapis Block":6,
+   "Glass Bottle":1
+  }
+ },
+ "TNT":{
+  "TNT":{
+   "Gunpowder":5,
+   "Sand":4
+  }
+ },
+ "Torch":{
+  "Torch":{
+   "Charcoal":1,
+   "Stick":1
+  }
+ },
+ "Training Dummy":{
+  "Training Dummy":{
+   "Sponge":224,
+   "Enchanted Pumpkin":1,
+   "Armor Stand":1
+  }
+ },
+ "Trapped Chest":{
+  "Trapped Chest":{
+   "Chest":1,
+   "Tripwire Hook":1
+  }
+ },
+ "Wooden Trapdoor":{
+  "Wooden Trapdoor":{
+   "Oak Wood Planks":6
+  }
+ },
+ "Treasure Artifact":{
+  "Treasure Artifact":{
+   "Treasure Ring":9
+  }
+ },
+ "Treasure Ring":{
+  "Treasure Ring":{
+   "Treasure Talisman":8
+  }
+ },
+ "Treecapitator":{
+  "Treecapitator":{
+   "Enchanted Obsidian":512,
+   "Jungle Axe":1
+  }
+ },
+ "Tripwire Hook":{
+  "Tripwire Hook":{
+   "Iron Ingot":1,
+   "Stick":1,
+   "Oak Wood Planks":1
+  }
+ },
+ "Ultimate Carrot Candy":{
+  "Ultimate Carrot Candy":{
+   "Superb Carrot Candy":8,
+   "Ultimate Carrot Candy Upgrade":1
+ },
+  "for":10
+ },
+ "Unstable Dragon Boots":{
+  "Unstable Dragon Boots":{
+   "Unstable Dragon Fragment":40
+  }
+ },
+ "Unstable Dragon Chestplate":{
+  "Unstable Dragon Chestplate":{
+   "Unstable Dragon Fragment":80
+  }
+ },
+ "Unstable Dragon Helmet":{
+  "Unstable Dragon Helmet":{
+   "Unstable Dragon Fragment":50
+  }
+ },
+ "Unstable Dragon Leggings":{
+  "Unstable Dragon Leggings":{
+   "Unstable Dragon Fragment":70
+  }
+ },
+ "Vaccine Talisman":{
+  "Vaccine Talisman":{
+   "Poisonous Potato":9
+  }
+ },
+ "Valkyrie":{
+  "Valkyrie":{
+   "Diamante's Handle":8,
+   "Necron's Blade (Unrefined)":1
+  }
+ },
+ "Vampire Witch Mask":{
+  "Vampire Witch Mask":{
+   "Ectoplasm":7,
+   "Witch Mask":1,
+   "Vampire Mask":1
+  }
+ },
+ "Voodoo Doll":{
+  "Voodoo Doll":{
+   "Arrow":256,
+   "Enchanted Ghast Tear":32,
+   "Enchanted Pufferfish":2,
+   "Pumpkin Minion IX":1,
+   "Crystallized Heart":1
+  }
+ },
+ "Wand of Healing":{
+  "Wand of Healing":{
+   "Revenant Flesh":16,
+   "Stick":1
+  }
+ },
+ "Wand of Mending":{
+  "Wand of Mending":{
+   "Revenant Viscera":1,
+   "Wand of Healing":1,
+   "Enchanted Dark Oak Wood":12
+  }
+ },
+ "Wand of Restoration":{
+  "Wand of Restoration":{
+   "Revenant Viscera":16,
+   "Wand of Mending":1,
+   "Enchanted Dark Oak Wood":64
+  }
+ },
+ "Clock":{
+  "Clock":{
+   "Gold Ingot":4,
+   "Redstone":1
+  }
+ },
+ "Weather Stick":{
+  "Weather Stick":{
+   "Enchanted Redstone":2,
+   "Stick":1
+  }
+ },
+ "Weird Tuba":{
+  "Weird Tuba":{
+   "Enchanted Iron":100,
+   "Golden Tooth":20
+  }
+ },
+ "Werewolf Boots":{
+  "Werewolf Boots":{
+   "Werewolf Skin":16
+  }
+ },
+ "Werewolf Chestplate":{
+  "Werewolf Chestplate":{
+   "Werewolf Skin":32
+  }
+ },
+ "Werewolf Helmet":{
+  "Werewolf Helmet":{
+   "Werewolf Skin":20
+  }
+ },
+ "Werewolf Leggings":{
+  "Werewolf Leggings":{
+   "Werewolf Skin":28
+  }
+ },
+ "Whale Bait":{
+  "Whale Bait":{
+   "Fish Bait":1,
+   "Light Bait":1,
+   "Dark Bait":1,
+   "Blessed Bait":1
+  }
+ },
+ "Wheat":{
+  "Wheat":{
+   "Hay Bale":1
+  }
+ },
+ "Wheat Minion I":{
+  "Wheat Minion I":{
+   "Wheat":80,
+   "Wooden Hoe":1
+  }
+ },
+ "Wise Dragon Boots":{
+  "Wise Dragon Boots":{
+   "Wise Dragon Fragment":40
+  }
+ },
+ "Wise Dragon Chestplate":{
+  "Wise Dragon Chestplate":{
+   "Wise Dragon Fragment":80
+  }
+ },
+ "Wise Dragon Helmet":{
+  "Wise Dragon Helmet":{
+   "Wise Dragon Fragment":50
+  }
+ },
+ "Wise Dragon Leggings":{
+  "Wise Dragon Leggings":{
+   "Wise Dragon Fragment":70
+  }
+ },
+ "Storm's Boots":{
+  "Storm's Boots":{
+   "L.A.S.R.'s Eye":8,
+   "Wither Boots":1
+  }
+ },
+ "Storm's Chestplate":{
+  "Storm's Chestplate":{
+   "L.A.S.R.'s Eye":8,
+   "Wither Chestplate":1
+  }
+ },
+ "Storm's Helmet":{
+  "Storm's Helmet":{
+   "L.A.S.R.'s Eye":8,
+   "Wither Helmet":1
+  }
+ },
+ "Storm's Leggings":{
+  "Storm's Leggings":{
+   "L.A.S.R.'s Eye":8,
+   "Wither Leggings":1
+  }
+ },
+ "[Lvl {LVL}] Wither Skeleton":{
+  "[Lvl {LVL}] Wither Skeleton":{
+   "Enchanted Block of Coal":8,
+   "Super Enchanted Egg":1
+  }
+ },
+ "[Lvl {LVL}] Wolf":{
+  "[Lvl {LVL}] Wolf":{
+   "Enchanted Spruce Wood":512,
+   "Super Enchanted Egg":1
+  }
+ },
+ "Wolf Ring":{
+  "Wolf Ring":{
+   "Enchanted Bone":14,
+   "Wolf Talisman":1,
+   "Weak Wolf Catalyst":1
+  }
+ },
+ "Spruce Wood Planks":{
+  "Spruce Wood Planks":{
+   "Spruce Wood":1
+  }
+ },
+ "Birch Wood Planks":{
+  "Birch Wood Planks":{
+   "Birch Wood":1
+  }
+ },
+ "Jungle Wood Planks":{
+  "Jungle Wood Planks":{
+   "Jungle Wood":1
+  }
+ },
+ "Acacia Wood Planks":{
+  "Acacia Wood Planks":{
+   "Acacia Wood":1
+  }
+ },
+ "Dark Oak Wood Planks":{
+  "Dark Oak Wood Planks":{
+   "Dark Oak Wood":1
+  }
+ },
+ "Oak Wood Planks":{
+  "Oak Wood Planks":{
+   "Oak Wood":1
+  }
+ },
+ "Woodcutting Crystal":{
+  "Woodcutting Crystal":{
+   "Enchanted Birch Wood":96,
+   "Enchanted Quartz":1
+  }
+ },
+ "Wooden Axe":{
+  "Wooden Axe":{
+   "Oak Wood Planks":3,
+   "Stick":2
+  }
+ },
+ "Oak Door":{
+  "Oak Door":{
+   "Oak Wood Planks":6
+  }
+ },
+ "Wooden Hoe":{
+  "Wooden Hoe":{
+   "Oak Wood Planks":2,
+   "Stick":2
+  }
+ },
+ "Wooden Pickaxe":{
+  "Wooden Pickaxe":{
+   "Oak Wood Planks":3,
+   "Stick":2
+  }
+ },
+ "Wooden Pressure Plate":{
+  "Wooden Pressure Plate":{
+   "Oak Wood Planks":2
+  }
+ },
+ "Wooden Shovel":{
+  "Wooden Shovel":{
+   "Oak Wood Planks":1,
+   "Stick":2
+  }
+ },
+ "Oak Wood Stairs":{
+  "Oak Wood Stairs":{
+   "Oak Wood Planks":6
+  }
+ },
+ "Spruce Wood Slab":{
+  "Spruce Wood Slab":{
+   "Spruce Wood Planks":3
+  }
+ },
+ "Birch Wood Slab":{
+  "Birch Wood Slab":{
+   "Birch Wood Planks":3
+  }
+ },
+ "Jungle Wood Slab":{
+  "Jungle Wood Slab":{
+   "Jungle Wood Planks":3
+  }
+ },
+ "Acacia Wood Slab":{
+  "Acacia Wood Slab":{
+   "Acacia Wood Planks":3
+  }
+ },
+ "Dark Oak Wood Slab":{
+  "Dark Oak Wood Slab":{
+   "Dark Oak Wood Planks":3
+  }
+ },
+ "Oak Wood Slab":{
+  "Oak Wood Slab":{
+   "Oak Wood Planks":3
+  }
+ },
+ "Wooden Sword":{
+  "Wooden Sword":{
+   "Oak Wood Planks":2,
+   "Stick":1
+  }
+ },
+ "Wood Affinity Talisman":{
+  "Wood Affinity Talisman":{
+   "Oak Leaves":8,
+   "Enchanted Oak Wood":1
+  }
+ },
+ "Orange Wool":{
+  "Orange Wool":{
+   "Orange Dye":1,
+   "Wool":1
+  }
+ },
+ "Purple Wool":{
+  "Purple Wool":{
+   "Purple Dye":1,
+   "Wool":1
+  }
+ },
+ "Blue Wool":{
+  "Blue Wool":{
+   "Lapis Lazuli":1,
+   "Wool":1
+  }
+ },
+ "Brown Wool":{
+  "Brown Wool":{
+   "Cocoa Beans":1,
+   "Wool":1
+  }
+ },
+ "Green Wool":{
+  "Green Wool":{
+   "Cactus Green":1,
+   "Wool":1
+  }
+ },
+ "Red Wool":{
+  "Red Wool":{
+   "Rose Red":1,
+   "Wool":1
+  }
+ },
+ "Black Wool":{
+  "Black Wool":{
+   "Ink Sac":1,
+   "Wool":1
+  }
+ },
+ "Magenta Wool":{
+  "Magenta Wool":{
+   "Magenta Dye":1,
+   "Wool":1
+  }
+ },
+ "Light Blue Wool":{
+  "Light Blue Wool":{
+   "Light Blue Dye":1,
+   "Wool":1
+  }
+ },
+ "Yellow Wool":{
+  "Yellow Wool":{
+   "Dandelion Yellow":1,
+   "Wool":1
+  }
+ },
+ "Lime Wool":{
+  "Lime Wool":{
+   "Lime Dye":1,
+   "Wool":1
+  }
+ },
+ "Pink Wool":{
+  "Pink Wool":{
+   "Pink Dye":1,
+   "Wool":1
+  }
+ },
+ "Gray Wool":{
+  "Gray Wool":{
+   "Gray Dye":1,
+   "Wool":1
+  }
+ },
+ "Light Gray Wool":{
+  "Light Gray Wool":{
+   "Light Gray Dye":1,
+   "Wool":1
+  }
+ },
+ "Cyan Wool":{
+  "Cyan Wool":{
+   "Cyan Dye":1,
+   "Wool":1
+  }
+ },
+ "Wool":{
+  "Wool":{
+   "Bone Meal":1,
+   "Wool":1
+  }
+ },
+ "Crafting Table":{
+  "Crafting Table":{
+   "Oak Wood Planks":4
+  }
+ },
+ "X-Large Storage":{
+  "X-Large Storage":{
+   "Minion Storage X-pender":1,
+   "Large Storage":1
+  }
+ },
+ "XX-Large Storage":{
+  "XX-Large Storage":{
+   "Minion Storage X-pender":1,
+   "X-Large Storage":1
+  }
+ },
+ "Yeti Sword":{
+  "Yeti Sword":{
+   "Enchanted Packed Ice":384,
+   "Enchanted Iron Block":32,
+   "Hilt of True Ice":1
+  }
+ },
+ "Young Dragon Boots":{
+  "Young Dragon Boots":{
+   "Young Dragon Fragment":40
+  }
+ },
+ "Young Dragon Chestplate":{
+  "Young Dragon Chestplate":{
+   "Young Dragon Fragment":80
+  }
+ },
+ "Young Dragon Helmet":{
+  "Young Dragon Helmet":{
+   "Young Dragon Fragment":50
+  }
+ },
+ "Young Dragon Leggings":{
+  "Young Dragon Leggings":{
+   "Young Dragon Fragment":70
+  }
+ },
+ "Zog Anvil":{
+  "Zog Anvil":{
+   "Ancient Claw":96,
+   "Griffin Feather":16
+  }
+ },
+ "Zombie Artifact":{
+  "Zombie Artifact":{
+   "Enchanted Iron":32,
+   "Enchanted Diamond":16,
+   "Revenant Viscera":48,
+   "Zombie Ring":1
+  }
+ },
+ "Zombie Boots":{
+  "Zombie Boots":{
+   "Enchanted Rotten Flesh":2,
+   "Zombie's Heart":2
+  }
+ },
+ "Zombie Chestplate":{
+  "Zombie Chestplate":{
+   "Enchanted Rotten Flesh":4,
+   "Zombie's Heart":4
+  }
+ },
+ "Zombie Minion I":{
+  "Zombie Minion I":{
+   "Rotten Flesh":80,
+   "Wooden Sword":1
+  }
+ },
+ "Zombie Hat":{
+  "Zombie Hat":{
+   "Rotten Flesh":8
+  }
+ },
+ "Zombie's Heart":{
+  "Zombie's Heart":{
+   "Enchanted Rotten Flesh":256
+  }
+ },
+ "Zombie Leggings":{
+  "Zombie Leggings":{
+   "Zombie's Heart":3,
+   "Enchanted Rotten Flesh":4
+  }
+ },
+ "Zombie Pickaxe":{
+  "Zombie Pickaxe":{
+   "Rotten Flesh":3,
+   "Stick":2
+  }
+ },
+ "Zombie Ring":{
+  "Zombie Ring":{
+   "Revenant Flesh":64,
+   "Zombie Talisman":1
+  }
+ },
+ "Zombie Sword":{
+  "Zombie Sword":{
+   "Zombie's Heart":2,
+   "Stick":1
+  }
+},
+"Personal Compactor 7000":{
+  "Personal Compactor 7000":{
+    "Personal Compactor 6000":1,
+    "Enchanted Redstone Block":56
+  }
+},
+"Rancher's Boots":{
+  "Rancher's Boots":{
+    "Polished Pumpkin":16,
+    "Farmer Boots":1
+  }
+},
+"Wither Relic":{
+  "Wither Relic":{
+    "Wither Catalyst":8,
+    "Wither Artifact":1
+  }
+},
+"Wither Impact":{
+  "Wither Impact":{
+    "Implosion":1,
+    "Shadow Warp":1,
+    "Wither Shield":1
+  }
+},
+  "Catacombs Expert Ring":{
+    "Catacombs Expert Ring":{
+      "Wither Catalyst":24
+    }
+  },
+  "Shark Scale Helmet":{
+    "Shark Scale Helmet":{
+      "Enchanted Shark Fin":2,
+      "Sponge Helmet":1
+    }
+  },
+  "Shark Scale Chestplate":{
+    "Shark Scale Chestplate":{
+      "Enchanted Shark Fin":2,
+      "Sponge Chestplate":1
+    }
+  },
+  "Shark Scale Leggings":{
+    "Shark Scale Leggings":{
+      "Enchanted Shark Fin":2,
+      "Sponge Leggings":1
+    }
+  },
+  "Shark Scale Boots":{
+    "Shark Scale Boots":{
+      "Enchanted Shark Fin":2,
+      "Spongy Shoes":1
+    }
+  },
+  "Reforge Anvil":{
+    "Reforge Anvil":{
+      "Enchanted Obsidian":256,
+      "Enchanted Iron":192
+    }
+  },
+  "Blue Jerry Talisman":{
+    "Blue Jerry Talisman":{
+      "Green Jerry Talisman":5
+  }
+},
+"Purple Jerry Talisman":{
+  "Purple Jerry Talisman":{
+    "Blue Jerry Talisman":5
+  }
+},
+"Golden Jerry Artifact":{
+  "Golden Jerry Artifact":{
+    "Purple Jerry Talisman":5
+  }
+},
+"Sorrow Helmet":{
+  "Sorrow Helmet":{
+    "Sorrow":15
+  }
+},
+"Sorrow Chestplate":{
+  "Sorrow Chestplate":{
+    "Sorrow":24
+  }
+},
+"Sorrow Leggings":{
+  "Sorrow Leggings":{
+    "Sorrow":21
+  }
+},
+"Sorrow Boots":{
+  "Sorrow Boots":{
+    "Sorrow":12
+  }
+},
+"Soul Whip":{
+  "Soul Whip":{
+    "Ectoplasm":12,
+    "Soul Fragment":8
+  }
+},
+"Dwarven Super Compactor":{
+  "Dwarven Super Compactor":{
+    "Enchanted Mithril":56,
+    "Super Compactor 3000":1,
+    "Auto Smelter":1
+  }
+},
+"Mithril Crystal":{
+  "Mithril Crystal":{
+  "Enchanted Mithril":16,
+  "Enchanted Quartz":2
+  }
+},
+"Enchnated Mithril":{
+  "Enchanted Mithril":{
+    "Mithril":160
+  }
+},
+"Mithril Coat":{
+  "Mithril Coat":{
+    "Enchanted Mithril":32
+  }
+},
+"Wither Impact Hyperion":{
+  "Wither Impact Hyperion":{
+    "Necron's Handle":1,
+    "L.A.S.R.'s Eye":8,
+    "Wither Catalyst":24,
+    "Implosion":1,
+    "Shadow Warp":1,
+    "Wither Shield":1}
+  },
+"Flycatcher":{
+  "Flycatcher":{
+  "Tarantula Silk":102,
+  "Fly Swatter":1
+}
+},
+"Personal Deletor 4000":{
+  "Personal Deletor 4000":{
+    "Enchanted Iron":112,
+    "Enchanted Redstone Block":1,
+    "Enchanted Lava Bucket":1
+  }
+},
+"Personal Deletor 5000":{
+  "Personal Deletor 5000":{
+    "Enchanted Iron":224,
+    "Personal Deletor 4000":1
+  }
+},
+"Personal Deletor 6000":{
+  "Personal Deletor 6000":{
+    "Enchanted Iron":448,
+    "Personal Deletor 5000":1
+  }
+},
+"Personal Deletor 7000":{
+  "Personal Deletor 7000":{
+    "Enchanted Iron Block":7,
+    "Personal Deletor 6000":1
+  }
+},
+"Warden Helmet":{
+  "Warden Helmet":{
+    "Enchanted Iron Block":128,
+    "Revived Heart":2,
+    "Warden Heart":1
+  }
+},
+"Axe of the Shredded":{
+  "Axe of the Shredded":{
+    "Reaper Falchion":1,
+    "Shard of the Shredded":4,
+    "Revenant Viscera":256
+  }
+},
+"Reaper Orb":{
+  "Reaper Orb":{
+    "Scythe Blade":8
+  }
+  },
+"Spiked Atrocity":{
+  "Spiked Atrocity":{
+    "Enchanted Ink Sack":128,
+    "Spiked Bait":128,
+    "Bait Ring":1
+  }
+},
+"Sword of Revelations":{
+  "Sword of Revelations":{
+    "Griffin Feather":192,
+    "Enchanted Ancient Claw":8,
+    "Stick":1,
+    "Enchanted Gold Block":8
+  }
+},
+"Refined Diamond":{
+  "Refined Diamond":{
+    "Enchanted Diamond Block":2
+  },
+  "forge":{
+    "time":"8h",
+    "tier":2
+  }
+},
+"Refined Mithril":{
+  "Refined Mithril":{
+    "Enchanted Mithril":160
+  },
+  "forge":{
+    "time":"6h",
+    "tier":2
+  }
+},
+"Refined Titanium":{
+  "Refined Titanium":{
+    "Enchanted Titanium":16
+  },
+  "forge":{
+    "time":"12h",
+    "tier":2
+  }
+},
+"Fuel Tank":{
+  "Fuel Tank":{
+    "Enchanted Block of Coal":2
+  },
+  "forge":{
+    "time":"10h",
+    "tier":2
+  }
+},
+"Mithril Plate":{
+  "Mithril Plate":{
+    "Refined Mithril":5,
+    "Golden Plate":1,
+    "Enchanted Iron Block":1,
+    "Refined Titanium":1
+  },
+  "forge":{
+    "time":"18h",
+    "tier":3
+  }
+},
+"Bejeweled Handle":{
+  "Bejeweled Handle":{
+    "glacite jewel":3
+},
+"forge":{
+  "tier":2,
+  "time":"30m"
+}},
+"Golden Plate":{
+  "Golden Plate":{
+    "Enchanted gold block":2,
+    "glacite jewel":5,
+    "refined diamond":1
+  },
+  "forge":{
+    "tier":3,
+    "time":"6h"
+  }
+},
+"Drill Engine":{
+  "Drill Engine":{
+    "enchanted iron block":1,
+    "enchanted redstone block":3,
+    "golden plate":1,
+    "treasurite":10,
+    "refined diamond":1
+  },
+  "forge":{
+    "time":"1d6h",
+    "tier":3
+  }
+},
+"Mithril Pickaxe":{
+  "Mithril Pickaxe":{
+    "Enchanted Mithril":30,
+    "bejeweled handle":1,
+    "enchanted gold":10
+  },
+  "forge":{
+    "time":"45m",
+    "tier":2
+  }
+},
+"Beacon II":{
+  "Beacon II":{
+    "beacon i":1,
+    "refined mithril":5
+  },
+  "forge":{
+    "time":"20h",
+    "tier":2
+  }
+},
+"Titanium Talisman":{
+  "Titanium Talisman":{
+    "refined titanium":2
+  },
+  "forge":{
+    "time":"14h",
+    "tier":2
+  }
+},
+"Diamonite":{
+  "Diamonite":{
+    "refined diamond":3
+  },
+  "forge":{
+    "time":"6h",
+    "tier":2
+  }
+},
+"Power Crystal":{
+  "Power Crystal":{
+    "Starfall":256
+  },
+  "forge":{
+    "time":"2h",
+    "tier":2
+  }
+},
+"Refined Mithril Pickaxe":{
+  "Refined Mithril Pickaxe":{
+    "Refined Mithril":3,
+    "Bejeweled Handle":2,
+    "Refined Diamond":1,
+    "Enchanted Gold":30
+  },
+  "forge":{
+    "time":"22h",
+    "tier":3
+  }
+},
+"Mithril Drill Sx-r226":{
+  "Mithril Drill Sx-r226":{
+    "Drill Engine":1,
+    "Refined Mithril":3,
+    "Fuel Tank":1
+  },
+  "forge":{
+    "time":"4h",
+    "tier":3
+  }
+},
+"Mithril-infused Fuel Tank":{
+  "Mithril-infused Fuel Tank":{
+    "mithril plate":3,
+    "fuel tank":5
+  },
+  "forge":{
+    "tier":3,
+    "time":"10h"
+  }
+},
+"Mithril-plated Drill Engine":{
+  "Mithril-plated Drill Engine":{
+    "mithril plate":3,
+    "drill engine":2
+  },
+  "forge":{
+    "tier":3,
+    "time":"15h"
+  }
+},
+"Beacon III":{
+  "Beacon III":{
+    "beacon ii":1,
+    "refined mithril":10
+  },
+  "forge":{
+    "time":"1d6h",
+    "tier":3
+  }
+},
+"Titanium Ring":{
+  "Titanium Ring":{
+    "refined titanium":6,
+    "Titanium Ring":1
+  },
+  "forge":{"time":"20h","tier":3}
+},
+"Pure Mithril":{
+  "Pure Mithril":{
+    "Refined Mithril":2
+  },
+  "forge":{
+    "time":"12h",
+    "tier":3
+  }
+},
+"Rock Gemstone":{
+  "Rock Gemstone":{
+    "Enchanted cobblestone":128,
+    "treasurite":64
+  },
+  "forge":{
+    "time":"22h",
+    "tier":3
+  }
+},
+"Petrified Starfall":{
+  "Petrified Starfall":{
+    "Starfall":512
+  },
+  "forge":{
+    "time":"14h",
+    "tier":3
+  }
+},
+"Mithril Drill Sx-r326":{
+  "Mithril Drill Sx-r326":{
+    "mithril drill sx-r226":1,
+    "golden plate":1,
+    "mithril plate":2
+  },
+  "forge":{
+    "time":"30s",
+    "tier":4
+  }
+},
+"Titanium-plated Drill Engine":{
+  "Titanium-Plated Drill Engine":{
+    "drill engine":10,
+    "plasma":5,
+    "mithril plate":4,
+    "refined titanium":5
+  },
+  "forge":{
+    "time":"1d6h",
+    "tier":4
+  }
+},
+"Goblin Omelette":{
+  "Goblin Omelette":{
+    "goblin egg":99
+  },
+  "forge":{
+    "time":"18h",
+    "tier":4
+  }
+},
+"Beacon Iv":{
+  "Beacon IV":{
+    "beacon iii":1,
+    "refined mithril":20,
+    "plasma":1
+  },
+  "forge":{
+    "time":"1d16h",
+    "tier":4
+  }
+},
+"Titanium Artifact":{
+  "Titanium Artifact":{
+    "refined titanium":12,
+    "titanium ring":1
+  },
+  "forge":{ 
+    "time":"1d12h",
+    "tier":4
+  }
+},
+"Titanium Drill Dr-x355":{
+  "Titanium Drill Dr-x355":{
+    "Drill Engine":1,
+    "Fuel Tank":1,
+    "Golden Plate":6,
+    "Refined Titanium":10,
+    "Refined Mithril":10
+  },
+  "forge":{
+    "time":"2d16h",
+    "tier":5
+  }
+},
+"Titanium Drill Dr-x455":{
+  "Titanium Drill Dr-x455":{
+    "Titanium Drill Dr-x355":1,
+    "Refined Titanium":16,
+    "Refined Mithril":10,
+    "Mithril Plate":6
+  },
+  "forge":{
+    "time":"30s",
+    "tier":5
+  }
+},
+"Titanium Drill Dr-x555":{
+  "Titanium Drill Dr-x555":{
+    "Titanium Drill Dr-x455":1,
+    "Refined Diamond":20,
+    "Refined Titanium":32,
+    "Enchanted Iron Block":2,
+    "Mithril Plate":15,
+    "Plasma":20
+  },
+  "forge":{
+    "time":"30s",
+    "tier":5
+  }
+},
+"Titanium-infused Fuel Tank":{
+  "Titanium-Infused Fuel Tank":{
+    "Refined Titanium":10,
+    "refined diamond":10,
+    "refined mithril":10,
+    "fuel tank":10
+  },
+  "forge":{
+    "tier":5,
+    "time":"1d1h"
+  }
+},
+"Beacon V":{
+  "Beacon V":{
+    "Beacon IV":1,
+    "Refined Mithril":40,
+    "Plasma":5
+  },
+  "forge":{ 
+    "tier":5,
+    "time":"2d2h"
+  }
+},
+"Titanium Relic":{
+  "Titanium Relic":{
+    "refined titanium":20,
+    "titanium artifact":1
+  },
+  "forge":{
+    "tier":5,
+    "time":"3d"
+  }
+},
+"Vipin":{
+  "Vipin":{
+    "Vipin Brain":1,
+    "Vipin Core":1,
+    "Smart Juice":1,
+    "Grammar Mistakes":1
+  }
+},
+"Sitdukcretin":{
+  "sitdukcretin":{
+    "XDDDDDDDDDDDDDDDDDDD":1,
+    "U JELLY?":1,
+    "UTUBE":1,
+    "FUNNY POGGER":1,
+    "AMOGUS":1,
+    "Queen":1
+  }
+},
+"_2y":{
+  "_2y":{
+    "M2 100 marks":1,
+    "Hokba":1,
+    "JS God":1,
+    "SKY BLOCK CATACOMBS":1
+  }
+},
+"Master Skull - Tier 2":{
+  "Master Skull - Tier 2":{
+    "Master Skull - Tier 1":4
+  }
+},
+"Master Skull - Tier 3":{
+  "Master Skull - Tier 3":{
+    "Master Skull - Tier 2":4
+  }
+},
+"Master Skull - Tier 4":{
+  "Master Skull - Tier 4":{
+    "master skull - tier 3":4
+  }
+},
+"Master Skull - Tier 5":{
+  "Master Skull - Tier 5":{
+    "Master skull - tier 4":4
+  }
+},
+"Master Skull - Tier 6":{
+  "Master Skull - Tier 6":{
+    "master skull - tier 5":4
+  }
+},
+"Master Skull - Tier 7":{
+  "Master Skull - Tier 7":{
+    "master skull - tier 6":4
+  }
+}
+}
