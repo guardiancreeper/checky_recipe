@@ -6549,11 +6549,46 @@
     "master skull - tier 6":4
   }
 },
- "Large Enchanted Mining Sack":{
-   "Large Enchanted Mining Sack":{
-     "enchanted coal":112,
- 			"enchanted leather":4,
- 			"enchanted string":16
-		}
-	}
+"Large Enchanted Mining Sack":{
+  "Large Enchanted Mining Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Coal":112
+  }
+ },
+"Large Enchanted Combat Sack":{
+  "Large Enchanted Combat Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Rotten Flesh":112
+  }
+ },
+"Large Enchanted Foraging Sack":{
+  "Large Enchanted Foraging Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Birch Wood":112
+  }
+ },
+"Large Enchanted Fishing Sack":{
+  "Large Enchanted Fishing Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Pufferfish":112
+  }
+ },
+"Large Enchanted Agronomy Sack":{
+  "Large Enchanted Agronomy Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Wheat":112
+  }
+ },
+"Large Enchanted Husbandry Sack":{
+  "Large Enchanted Husbandry Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Mutton":112
+  }
+}
 }
