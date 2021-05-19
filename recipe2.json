@@ -6549,46 +6549,46 @@
     "master skull - tier 6":4
   }
 },
-"Enchanted Mining Sack":{
-  "Enchanted Mining Sack":{
-    "Enchanted String":16
-    "Enchanted Leather":4
-    "Enchanted Coal":128
+"Large Enchanted Mining Sack":{
+  "Large Enchanted Mining Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Coal":112
   }
  },
-"Enchanted Combat Sack":{
-  "Enchanted Combat Sack":{
-    "Enchanted String":16
-    "Enchanted Leather":4
-    "Enchanted Rotten Flesh":128
+"Large Enchanted Combat Sack":{
+  "Large Enchanted Combat Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Rotten Flesh":112
   }
  },
-"Enchanted Foraging Sack":{
-  "Enchanted Foraging Sack":{
-    "Enchanted String":16
-    "Enchanted Leather":4
-    "Enchanted Birch":128
+"Large Enchanted Foraging Sack":{
+  "Large Enchanted Foraging Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Birch Wood":112
   }
  },
-"Enchanted Fishing Sack":{
-  "Enchanted Fishing Sack":{
-    "Enchanted String":16
-    "Enchanted Leather":4
-    "Enchanted Pufferfish":128
+"Large Enchanted Fishing Sack":{
+  "Large Enchanted Fishing Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Pufferfish":112
   }
  },
-"Enchanted Agronomy Sack":{
-  "Enchanted Agronomy Sack":{
-    "Enchanted String":16
-    "Enchanted Leather":4
-    "Enchanted Wheat":128
+"Large Enchanted Agronomy Sack":{
+  "Large Enchanted Agronomy Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Wheat":112
   }
  },
-"Enchanted Husbandry Sack":{
-  "Enchanted Husbandry Sack":{
-    "Enchanted String":16
-    "Enchanted Leather":4
-    "Enchanted Mutton":128
+"Large Enchanted Husbandry Sack":{
+  "Large Enchanted Husbandry Sack":{
+    "Enchanted String":16,
+    "Enchanted Leather":4,
+    "Enchanted Mutton":112
   }
 }
 }
