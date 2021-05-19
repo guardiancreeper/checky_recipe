@@ -6548,5 +6548,47 @@
   "Master Skull - Tier 7":{
     "master skull - tier 6":4
   }
+},
+"Enchanted Mining Sack":{
+  "Enchanted Mining Sack":{
+    "Enchanted String":16
+    "Enchanted Leather":4
+    "Enchanted Coal":128
+  }
+ },
+"Enchanted Combat Sack":{
+  "Enchanted Combat Sack":{
+    "Enchanted String":16
+    "Enchanted Leather":4
+    "Enchanted Rotten Flesh":128
+  }
+ },
+"Enchanted Foraging Sack":{
+  "Enchanted Foraging Sack":{
+    "Enchanted String":16
+    "Enchanted Leather":4
+    "Enchanted Birch":128
+  }
+ },
+"Enchanted Fishing Sack":{
+  "Enchanted Fishing Sack":{
+    "Enchanted String":16
+    "Enchanted Leather":4
+    "Enchanted Pufferfish":128
+  }
+ },
+"Enchanted Agronomy Sack":{
+  "Enchanted Agronomy Sack":{
+    "Enchanted String":16
+    "Enchanted Leather":4
+    "Enchanted Wheat":128
+  }
+ },
+"Enchanted Husbandry Sack":{
+  "Enchanted Husbandry Sack":{
+    "Enchanted String":16
+    "Enchanted Leather":4
+    "Enchanted Mutton":128
+  }
 }
 }
