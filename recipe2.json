@@ -6590,5 +6590,65 @@
     "Enchanted Leather":4,
     "Enchanted Mutton":112
   }
+},
+"Null Ovoid":{
+  "Null Ovoid":{
+    "null sphere":128,
+    "enchanted obsidian":32
+  }
+},
+"Null Edge":{
+  "Null Edge":{
+    "null atom":3,
+    "enchanted mithril":192
+  }
+},
+"Voidwalker Katana":{
+  "Voidwalker Katana":{
+    "null sphere":32,
+    "stick":1
+  }
+},
+"Voidedge Katana":{
+  "Voidedge Katana":{
+    "voidwalker katana":1,
+    "null ovoid":1,
+    "refined mithril":1
+  }
+},
+"Vorpal Katana":{
+  "Vorpal Katana":{
+    "Null Edge":1,
+    "null ovoid":8,
+    "refined mithril":8,
+    "voidedge katana":1
+  }
+},
+"Lesser Soulflow Engine":{
+  "Lesser Soulflow Engine":{
+    "null ovoid":6,
+    "enchanted eye of ender":48,
+    "enchanted block of gold":8
+  }
+},
+"Soulflow Pile":{
+  "Soulflow Pile":{
+    "null sphere":90
+  }
+},
+"Juju Shortbow":{
+  "Juju Shortbow":{
+    "null ovoid":33,
+    "enchanted block of gold":32,
+    "enchanted eye of ender":32,
+    "enchanted string":192
+  }
+},
+"Soul Esoward":{
+  "Soul Esoward":{
+    "summoning eye":1,
+    "null ovoid":13,
+    "enchanted birch wood":48
+  }
 }
 }
