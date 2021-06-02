@@ -6650,5 +6650,126 @@
     "null ovoid":13,
     "enchanted birch wood":48
   }
+},
+ "Absolute Ender Pearl":{
+  "Absolute Ender Pearl":{
+   "Enchanted Pearl":80
+  }
+},
+ "Tesselated Ender Pearl":{
+  "Tesselated Ender Pearl":{
+   "Absolute Ender Pearl":80,
+   "Enchanted Lapis Block":32
+  }
+},
+ "Null Blade":{
+  "Null Blade":{
+   "Null Edge":3,
+   "Null Ovoid":64,
+   "Enchanted Quartz Block":64
+  }
+},
+ "Soulflow":{
+  "Soulflow":{
+   "Raw Soulflow":160
+  }
+},
+ "Soulflow Battery":{
+  "Soulflow Battery":{
+   "Soulflow Pile":1,
+   "Null Ovoid":8
+  }
+},
+ "Soulflow Supercell":{
+  "Soulflow Supercell":{
+   "Soulflow Battery:1,
+   "Null Atom":2,
+   "Null Ovoid":192
+  }
+),
+"Soulflow Engine":{
+ "Soulflow Engine":{
+   "Lesser Soulflow Engine":4,
+   "Refined Titanium":12,
+   "Null Ovoid":64,
+   "Null Atom":2
+  }
+},
+"Braided Griffin Feather":{
+  "Braided Griffin Feather":{
+   "Griffin Feather":160,
+   "Soul String":256
+  }
+},
+"Terminator":{
+ "Terminator":{
+  "Null Edge":6,
+  "Absolute Ender Pearl":8,
+  "Tarantula Silk":128,
+  "Braided Griffin Feather":4
+  }
+},
+"Etherwarp Conduit":{
+ "Etherwarp Conduit":{
+  "Null Ovoid":24,
+  "Refined Titanium":16
+  }
+},
+"Gyrokinetic Wand":{
+ "Gyrokinetic Wand":{
+  "Null Ovoid":96,
+  "Enchanted Eye of Ender":30,
+  "Enchanted Blaze Rod":30
+  }
+},
+"Gloomlock Grimoire":{
+ "Gloomlock Grimoire":(
+  "Book"1,
+  "Null Ovoid":16,
+  "Enchanted Gunpowder":128,
+  "Enchanted Quartz Block":8
+  }
+},
+"Final Destination Helmet":{
+ "Final Destination Helmet":{
+  "Null Ovoid:3,
+  "Enchanted Redstone":128
+  }
+},
+"Final Destination Chestplate":{
+ "Final Destination Chestplate":{
+  "Null Ovoid:4,
+  "Enchanted Redstone":256
+  }
+},
+"Final Destination Leggings":{
+ "Final Destination Leggings":{
+  "Null Ovoid:3,
+  "Enchanted Redstone":256
+  }
+},
+"Final Destination Boots":{
+ "Final Destination Boots":{
+  "Null Ovoid:2,
+  "Enchanted Redstone":128
+  }
+},
+"Atomsplit Katana":{
+ "Atomsplit Katana":{
+  "Null Edge":2,
+  "Vorpal Katana":1
+  }
+},
+"Aspect of the Void":{
+ "Aspect of the Void":{
+  "Null Ovoid":48,
+  "Aspect Of The End":1
+  }
+},
+"Sinseeker Scythe":{
+ "Sinseeker Scythe:{
+  "Null Atom":16,
+  "Null Ovoid:32,
+  "Sinful Dice":1
 }
 }
