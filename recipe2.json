@@ -6682,11 +6682,11 @@
 },
  "Soulflow Supercell":{
   "Soulflow Supercell":{
-   "Soulflow Battery:1,
+   "Soulflow Battery":1,
    "Null Atom":2,
    "Null Ovoid":192
   }
-),
+ },
 "Soulflow Engine":{
  "Soulflow Engine":{
    "Lesser Soulflow Engine":4,
@@ -6723,8 +6723,8 @@
   }
 },
 "Gloomlock Grimoire":{
- "Gloomlock Grimoire":(
-  "Book"1,
+ "Gloomlock Grimoire":{
+  "Book":1,
   "Null Ovoid":16,
   "Enchanted Gunpowder":128,
   "Enchanted Quartz Block":8
@@ -6732,25 +6732,25 @@
 },
 "Final Destination Helmet":{
  "Final Destination Helmet":{
-  "Null Ovoid:3,
+  "Null Ovoid":3,
   "Enchanted Redstone":128
   }
 },
 "Final Destination Chestplate":{
  "Final Destination Chestplate":{
-  "Null Ovoid:4,
+  "Null Ovoid":4,
   "Enchanted Redstone":256
   }
 },
 "Final Destination Leggings":{
  "Final Destination Leggings":{
-  "Null Ovoid:3,
+  "Null Ovoid":3,
   "Enchanted Redstone":256
   }
 },
 "Final Destination Boots":{
  "Final Destination Boots":{
-  "Null Ovoid:2,
+  "Null Ovoid":2,
   "Enchanted Redstone":128
   }
 },
@@ -6767,9 +6767,10 @@
   }
 },
 "Sinseeker Scythe":{
- "Sinseeker Scythe:{
+ "Sinseeker Scythe":{
   "Null Atom":16,
-  "Null Ovoid:32,
+  "Null Ovoid":32,
   "Sinful Dice":1
+}
 }
 }
