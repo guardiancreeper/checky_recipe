@@ -2673,11 +2673,17 @@
  }
  },
   "Necron's Blade (Unrefined)":{
-    "Necron's Blade":{
+    "Necron's Blade (Unrefined)":{
     "Necron's Handle":1,
     "Wither Catalyst":24
   }
  },
+ "Necron's Blade (unrefined)":{
+  "Necron's Blade (unrefined)":{
+  "Necron's Handle":1,
+  "Wither Catalyst":24
+}
+},
  "Jack o'Lantern":{
   "Jack o'Lantern":{
    "Pumpkin":1,
@@ -6628,7 +6634,7 @@
   "Lesser Soulflow Engine":{
     "null ovoid":6,
     "enchanted eye of ender":48,
-    "enchanted block of gold":8
+    "enchanted gold block":8
   }
 },
 "Soulflow Pile":{
@@ -6639,7 +6645,7 @@
 "Juju Shortbow":{
   "Juju Shortbow":{
     "null ovoid":33,
-    "enchanted block of gold":32,
+    "enchanted quartz block":32,
     "enchanted eye of ender":32,
     "enchanted string":192
   }
@@ -6703,8 +6709,9 @@
 },
 "Terminator":{
  "Terminator":{
-  "Null Edge":6,
-  "Absolute Ender Pearl":8,
+  "Null Blade":3,
+  "Judgement Core":1,
+  "Tesselated Ender Pearl":8,
   "Tarantula Silk":128,
   "Braided Griffin Feather":4
   }
@@ -6756,7 +6763,7 @@
 },
 "Atomsplit Katana":{
  "Atomsplit Katana":{
-  "Null Edge":2,
+  "Null Blade":2,
   "Vorpal Katana":1
   }
 },
@@ -6772,5 +6779,18 @@
   "Null Ovoid":32,
   "Sinful Dice":1
 }
+},
+"Wand of Atonement":{
+  "Wand of Atonement":{
+    "Enchanted Dark Oak Wood":64,
+    "revenant viscera":64,
+    "wand of restoration":1
+  }
+},
+"Magical Lava Bucket":{
+  "Magical Lava Bucket":{
+    "iron ingot":3,
+    "enchanted netherrack":1
+  }
 }
 }
