@@ -12,8 +12,8 @@ Don't question me about the weird names. Allow me to explain what these files do
 
 ## Uses for files
 
-- changelist.json: checks if a certain word inputted is a thing, and then changes the word (key) into the value
-- change2.json: checks if the entire input is equal to a key. If so, replace entire thing with the value.
+- changelist.json: checks if a certain word inputted is a thing, and then changes the word (key) into the value. (one word shortcuts)
+- change2.json: checks if the entire input is equal to a key. If so, replace entire thing with the value. (multi word shortcuts)
 - ebookchange.json: a shortcut for enchanted books.
 - recipe2.json: a recipe database lol
 
