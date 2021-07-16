@@ -6769,7 +6769,7 @@
 },
 "Aspect of the Void":{
  "Aspect of the Void":{
-  "Null Ovoid":48,
+  "Null Ovoid":32,
   "Aspect Of The End":1
   }
 },
@@ -6792,5 +6792,228 @@
     "iron ingot":3,
     "enchanted netherrack":1
   }
-}
+},
+"Flawed Ruby Gemstone": {
+  "Flawed Ruby Gemstone": {
+   "Rough Ruby Gemstone": 80
+  }
+ },
+ "Flawed Topaz Gemstone": {
+  "Flawed Topaz Gemstone": {
+   "Rough Topaz Gemstone": 80
+  }
+ },
+ "Flawed Sapphire Gemstone": {
+  "Flawed Sapphire Gemstone": {
+   "Rough Sapphire Gemstone": 80
+  }
+ },
+ "Flawed Amber Gemstone": {
+  "Flawed Amber Gemstone": {
+   "Rough Amber Gemstone": 80
+  }
+ },
+ "Flawed Jasper Gemstone": {
+  "Flawed Jasper Gemstone": {
+   "Rough Jasper Gemstone": 80
+  }
+ },
+ "Flawed Amethyst Gemstone": {
+  "Flawed Amethyst Gemstone": {
+   "Rough Amethyst Gemstone": 80
+  }
+ },
+ "Flawed Jade Gemstone": {
+  "Flawed Jade Gemstone": {
+   "Rough Jade Gemstone": 80
+  }
+ },
+ "Fine Ruby Gemstone": {
+  "Fine Ruby Gemstone": {
+   "Flawed Ruby Gemstone": 80
+  }
+ },
+ "Fine Topaz Gemstone": {
+  "Fine Topaz Gemstone": {
+   "Flawed Topaz Gemstone": 80
+  }
+ },
+ "Fine Sapphire Gemstone": {
+  "Fine Sapphire Gemstone": {
+   "Flawed Sapphire Gemstone": 80
+  }
+ },
+ "Fine Amber Gemstone": {
+  "Fine Amber Gemstone": {
+   "Flawed Amber Gemstone": 80
+  }
+ },
+ "Fine Jasper Gemstone": {
+  "Fine Jasper Gemstone": {
+   "Flawed Jasper Gemstone": 80
+  }
+ },
+ "Fine Amethyst Gemstone": {
+  "Fine Amethyst Gemstone": {
+   "Flawed Amethyst Gemstone": 80
+  }
+ },
+ "Fine Jade Gemstone": {
+  "Fine Jade Gemstone": {
+   "Flawed Jade Gemstone": 80
+  }
+ },
+ "Flawless Ruby Gemstone": {
+  "Flawless Ruby Gemstone": {
+   "Fine Ruby Gemstone": 80
+  }
+ },
+ "Flawless Topaz Gemstone": {
+  "Flawless Topaz Gemstone": {
+   "Fine Topaz Gemstone": 80
+  }
+ },
+ "Flawless Sapphire Gemstone": {
+  "Flawless Sapphire Gemstone": {
+   "Fine Sapphire Gemstone": 80
+  }
+ },
+ "Flawless Amber Gemstone": {
+  "Flawless Amber Gemstone": {
+   "Fine Amber Gemstone": 80
+  }
+ },
+ "Flawless Jasper Gemstone": {
+  "Flawless Jasper Gemstone": {
+   "Fine Jasper Gemstone": 80
+  }
+ },
+ "Flawless Amethyst Gemstone": {
+  "Flawless Amethyst Gemstone": {
+   "Fine Amethyst Gemstone": 80
+  }
+ },
+ "Flawless Jade Gemstone": {
+  "Flawless Jade Gemstone": {
+   "Fine Jade Gemstone": 80
+  }
+ },
+ "Perfect Ruby Gemstone": {
+  "Perfect Ruby Gemstone": {
+   "Flawless Ruby Gemstone": 5
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+ },
+ "Perfect Topaz Gemstone": {
+  "Perfect Topaz Gemstone": {
+   "Flawless Topaz Gemstone": 5
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+ },
+ "Perfect Sapphire Gemstone": {
+  "Perfect Sapphire Gemstone": {
+   "Flawless Sapphire Gemstone": 5
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+ },
+ "Perfect Amber Gemstone": {
+  "Perfect Amber Gemstone": {
+   "Flawless Amber Gemstone": 5
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+ },
+ "Perfect Jasper Gemstone": {
+  "Perfect Jasper Gemstone": {
+   "Flawless Jasper Gemstone": 5
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+ },
+ "Perfect Amethyst Gemstone": {
+  "Perfect Amethyst Gemstone": {
+   "Flawless Amethyst Gemstone": 5
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+ },
+ "Perfect Jade Gemstone": {
+  "Perfect Jade Gemstone": {
+   "Flawless Jade Gemstone": 5
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+ },
+ "Gemstone Gauntlet":{
+   "Gemstone Gauntlet":{
+     "flawless ruby gemstone":8,
+     "enchanted gold block":16
+   }
+ },
+ "Gemstone Mixture":{
+   "Gemstone Mixture":{
+     "fine jade gemstone":2,
+     "fine amber gemstone":2,
+     "fine amethyst gemstone":2,
+     "fine sapphire gemstone":2,
+     "sludge juice":500
+   },
+   "forge":{
+     "time":"???h",
+     "tier":4
+   }
+ },
+ "Talisman of Power":{
+   "Talisman of Power":{
+     "Flawed Ruby Gemstone":45
+   }
+ },
+ "Ring of Power":{
+   "Ring of Power":{
+     "talisman of power":1,
+     "fine ruby gemstone":7,
+     "gemstone mixture":1
+   }
+ },
+ "Artifact of Power":{
+   "Artifact of Power":{
+     "Gemstone Mixture":32,
+     "ring of power":1
+   }
+ },
+ "Small Gemstone Sack":{
+   "Small Gemstone Sack":{
+     "rough ruby gemstone":80,
+     "enchanted leather":1
+   }
+ },
+ "Medium Gemstone Sack":{
+   "Medium Gemstone Sack":{
+     "flawed ruby gemstone":80,
+     "small gemstone sack":1
+   }
+ },
+ "Large Gemstone Sack":{
+   "Large Gemstone Sack":{
+     "flawless ruby gemstone":8,
+     "medium gemstone sack":1
+   }
+ }
 }
