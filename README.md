@@ -45,6 +45,17 @@ next thing you do should be to add a recipe in JSON format, in the style of:
 }
 ```
 
+```
+Example: Aspect of the End
+
+"Aspect of the End":{
+  "Aspect of the End":{
+   "Enchanted Eye of Ender":32,
+   "Enchanted Diamond":1
+  }
+ }
+```
+
 if the item is forged:
 
 ```
@@ -65,7 +76,27 @@ if the item is forged:
 }
 ```
 
-additionally, if multiple items are created using the recipe, you can add "count" to tell the bot how much is crafted:
+```
+Example: DR-X355
+Note: the capitalization is weird, i know, this is due to how the bot capitalizes things in the code
+{
+    ...
+    "Titanium Drill Dr-x355":{
+        "Titanium Drill Dr-x355":{
+            "Drill Engine":1,
+            "Fuel Tank":1,
+            "Golden Plate":6,
+            "Refined Titanium":10,
+            "Refined Mithril":10
+    },
+    "forge":{
+        "time":"2d16h",
+        "tier":5
+    }
+}
+}```
+
+additionally, if multiple items are created using the recipe, you can add "for" to tell the bot how much is crafted:
 
 ```
 {   
@@ -81,3 +112,14 @@ additionally, if multiple items are created using the recipe, you can add "count
     }
 }
 ```
+```Example: Ultimate Carrot Candy (8x Superb Carrot Candy + 1x Ultimate Carrot Candy Upgrade -> 10x Ultimate Carrot Candy)
+{
+    ...
+    "Ultimate Carrot Candy":{
+        "Ultimate Carrot Candy":{
+            "Superb Carrot Candy":8,
+            "Ultimate Carrot Candy Upgrade":1
+        },
+    "for":10
+ }
+ ```
