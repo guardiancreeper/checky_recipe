@@ -22,3 +22,41 @@ Don't question me about the weird names. Allow me to explain what these files do
 YOU MUST FOLLOW THE SYNTAXES IN ALL THE FILES!!!
 
 For example, in recipe2.json you must capitalize the item names.
+
+### guide for recipe2
+
+ok so you want to add new recipes to the database? no problem!
+
+first, please look at recipe2.json and then go to the end.
+
+next thing you do should be to add a recipe in JSON format, in the style of:
+
+```{   
+    ...
+    "item":{
+        "item":{
+            "useditem1":count1,
+            "useditem2":count2,
+            ...
+            "useditemn":count_n
+        }
+    }
+}```
+
+if the item is forged:
+
+```{   
+    ...
+    "item":{
+        "item":{
+            "useditem1":count1,
+            "useditem2":count2,
+            ...
+            "useditemn":count_n
+        },
+        "forge":{
+            "tier":hotm_tier_required <int>,
+            "time":"xhxmxs" (omit when necessary)
+        }
+    }
+}```
