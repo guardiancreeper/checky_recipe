@@ -94,7 +94,8 @@ Note: the capitalization is weird, i know, this is due to how the bot capitalize
         "tier":5
     }
 }
-}```
+}
+```
 
 additionally, if multiple items are created using the recipe, you can add "for" to tell the bot how much is crafted:
 
@@ -113,7 +114,8 @@ additionally, if multiple items are created using the recipe, you can add "for" 
 }
 ```
 
-```Example: Ultimate Carrot Candy (8x Superb Carrot Candy + 1x Ultimate Carrot Candy Upgrade -> 10x Ultimate Carrot Candy)
+```
+Example: Ultimate Carrot Candy (8x Superb Carrot Candy + 1x Ultimate Carrot Candy Upgrade -> 10x Ultimate Carrot Candy)
 {
     ...
     "Ultimate Carrot Candy":{
