@@ -7014,6 +7014,76 @@
    "Large Gemstone Sack":{
      "flawless ruby gemstone":8,
      "medium gemstone sack":1
-   }
+}
+},
+ "Titanium Drill Dr-x655": {
+  "Titanium Drill Dr-x655": {
+   "Titanium Drill DR-X555":1,
+   "Corleonite":30,
+   "Flawless Ruby Gemstone":1 ,
+   "Refined Diamond":5,
+   "Gemstone Mixture":16,
+   "Refined Titanium":12,
+   "Mithril Plate":5
+  },
+  "forge": {
+   "time": "30s",
+   "tier": 7
+  }
+},
+"Divan's Drill":{
+  "Divan's Drill":{
+    "Titanium Drill DR-X655":1,
+    "Divan's Alloy":1,
+    "Coins":50000000
+  },
+  "forge":{
+    "time":"30s",
+    "tier":7
+  }
+},
+  "Ruby Drill Model Tx-15": {
+  "Ruby Drill Model Tx-15": {
+   "Drill Engine":1,
+   "Fuel Tank":1,
+   "Fine Ruby Gemstone":6
+  },
+  "forge": {
+   "time": "1h",
+   "tier": 3
+  }
+},
+ "Gemstone Drill Model Lt-522": {
+  "Gemstone Drill Model Lt-522": {
+   "Ruby Drill Model TX-15":1,
+   "Gemstone Mixture":3
+  },
+  "forge": {
+   "time": "30s",
+   "tier": 4
+  }
+},
+ "Topaz Drill Kgr-12": {
+  "Topaz Drill Kgr-12": {
+   "Gemstone Drill Model LT-522":1,
+   "Gemstone Mixture":3,
+   "Flawless Topaz Gemstone":1,
+   "Magma Core":5
+  },
+  "forge": {
+   "time": "30s",
+   "tier": 5
+  }
+},
+ "Jasper Drill Model X": {
+  "Jasper Drill Model X": {
+   "Topaz Drill KGR-12":1,
+   "Flawless Jasper Gemstone":1,
+   "Treasurite":100
+  },
+  "forge": {
+   "time": "30s",
+   "tier": 6
+  }
  }
 }
