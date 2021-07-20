@@ -31,7 +31,8 @@ first, please look at recipe2.json and then go to the end.
 
 next thing you do should be to add a recipe in JSON format, in the style of:
 
-```{   
+```
+{   
     ...
     "item":{
         "item":{
@@ -41,11 +42,13 @@ next thing you do should be to add a recipe in JSON format, in the style of:
             "useditemn":count_n
         }
     }
-}```
+}
+```
 
 if the item is forged:
 
-```{   
+```
+{   
     ...
     "item":{
         "item":{
@@ -59,4 +62,22 @@ if the item is forged:
             "time":"xhxmxs" (omit when necessary)
         }
     }
-}```
+}
+```
+
+additionally, if multiple items are created using the recipe, you can add "count" to tell the bot how much is crafted:
+
+```
+{   
+    ...
+    "item":{
+        "item":{
+            "useditem1":count1,
+            "useditem2":count2,
+            ...
+            "useditemn":count_n
+        },
+        "count":count (This is how many items are crafted using the recipe! If it's just 1, no need to add this.)
+    }
+}
+```
