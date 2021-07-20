@@ -112,6 +112,7 @@ additionally, if multiple items are created using the recipe, you can add "for" 
     }
 }
 ```
+
 ```Example: Ultimate Carrot Candy (8x Superb Carrot Candy + 1x Ultimate Carrot Candy Upgrade -> 10x Ultimate Carrot Candy)
 {
     ...
