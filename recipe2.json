@@ -7075,6 +7075,157 @@
    "tier": 5
   }
 },
+ "Hot Stuff": {
+  "Hot Stuff": {
+   "Hard Stone":128,
+   "Rough Amber Gemstone":64
+  },
+  "forge": {
+   "time": "1d",
+   "tier": 2
+  }
+},
+ "Sunny Side Goblin Omelette": {
+  "Sunny Side Goblin Omelette": {
+   "Yellow Goblin Egg":99,
+   "Fine Topaz Gemstone":1
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+},
+ "Spicy Goblin Omelette": {
+  "Spicy Goblin Omelette": {
+   "Red Goblin Egg":99,
+   "Flawless Ruby Gemstone":1
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+},
+ "Ruby-polished Drill Engine": {
+  "Ruby-polished Drill Engine": {
+   "Mithril-plated Drill Engine":1,
+   "Superlite Motor":1,
+   "Fine Ruby Gemstone":10
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 5
+  }
+},
+ "Gemstone Fuel Tank": {
+  "Gemstone Fuel Tank": {
+   "Titanium-infused Fuel Tank":1,
+   "Control Switch":30,
+   "Gemstone Mixture":10
+  },
+  "forge": {
+   "time": "1d6h",
+   "tier": 5
+  }
+},
+ "Blue Cheese Goblin Omelette": {
+  "Blue Cheese Goblin Omelette": {
+   "Blue Goblin Egg":99,
+   "Perfect Sapphire Gemstone":1
+  },
+  "forge": {
+   "time": "20h",
+   "tier": 6
+  }
+},
+ "Sapphire-polished Drill Engine": {
+  "Sapphire-polished Drill Engine": {
+   "Titanium-plated Drill Engine":1,
+   "Electron Transmitter":25,
+   "Ftx 3070":25,
+   "Fine Sapphire Gemstone":20
+  },
+  "forge": {
+   "time": "1d6h",
+   "tier": 6
+  }
+},
+ "Amber Material": {
+  "Amber Material": {
+   "Fine Amber Gemstone":12,
+   "Golden Plate":1
+  },
+  "forge": {
+   "time": "7h",
+   "tier": 6
+  }
+},
+ "Helmet Of Divan": {
+  "Helmet Of Divan": {
+   "Divan Fragment":5,
+   "Flawless Ruby Gemstone":1,
+   "Gemstone Mixture":10
+  },
+  "forge": {
+   "time": "23h",
+   "tier": 6
+  }
+},
+ "Chestplate Of Divan": {
+  "Chestplate Of Divan": {
+   "Divan Fragment":8,
+   "Flawless Ruby Gemstone":1,
+   "Gemstone Mixture":10
+  },
+  "forge": {
+   "time": "23h",
+   "tier": 6
+  }
+},
+ "Leggings Of Divan": {
+  "Leggings Of Divan": {
+   "Divan Fragment":4,
+   "Gemstone Mixture":10,
+   "Flawless Ruby Gemstone":1
+  },
+  "forge": {
+   "time": "23h",
+   "tier": 6
+  }
+},
+ "Boots Of Divan": {
+  "Boots Of Divan": {
+   "Divan Fragment":4,
+   "Flawless Ruby Gemstone":1,
+   "Gemstone Mixture":10
+  },
+  "forge": {
+   "time": "23h",
+   "tier": 6
+  }
+},
+ "Perfectly-cut Fuel Tank": {
+  "Perfectly-cut Fuel Tank": {
+   "Gemstone Fuel Tank":1,
+   "Synthetic Heart":70,
+   "Gemstone Mixture":25
+  },
+  "forge": {
+   "time": "1d11h",
+   "tier": 7
+  }
+},
+ "Amber-polished Drill Engine": {
+  "Amber-polished Drill Engine": {
+   "Ruby-polished Drill Engine":1,
+   "Sapphire-polished Drill Engine":1,
+   "Flawless Amber Gemstone":1,
+   "Robotron Reflector":50
+  },
+  "forge": {
+   "time": "1d11h",
+   "tier": 7
+  }
+},
  "Jasper Drill Model X": {
   "Jasper Drill Model X": {
    "Topaz Drill KGR-12":1,
