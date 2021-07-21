@@ -47,6 +47,7 @@ next thing you do should be to add a recipe in JSON format, in the style of:
 
 ```
 Example: Aspect of the End
+Note: the words of and the are not capitalized.
 
 "Aspect of the End":{
   "Aspect of the End":{
