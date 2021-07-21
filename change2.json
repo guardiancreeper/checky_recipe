@@ -201,5 +201,9 @@
   "enchanted large fishing sack": "large enchanted fishing sack",
   "enchanted large husbandry sack": "large enchanted husbandry sack",
   "enchanted large agronomy sack": "large enchanted agronomy sack",
-  "enchanted large combat sack": "large enchanted combat sack"
+  "enchanted large combat sack": "large enchanted combat sack",
+  "ruby drill": "ruby drill model tx-15",
+  "gemstone drill": "gemstone drill model lt-522",
+  "topaz drill": "topaz drill kgr-12",
+  "jasper drill": "jasper drill model x"
 }
