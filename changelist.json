@@ -14,7 +14,6 @@
  "cr": "challenging rod",
  "e": "enchanted",
  "hpb": "hot potato book",
- "fuming": "fuming potato book",
  "sc3k": "super compactor 3000",
  "pc4k": "personal compactor 4000",
  "pc5k": "personal compactor 5000",
@@ -101,5 +100,13 @@
  "pd6k": "personal deletor 6000",
  "pd5k": "personal deletor 5000",
  "pd4k": "personal deletor 4000",
- "sor": "sword of revelations"
+ "sor": "sword of revelations",
+ "aots": "axe of the shredded",
+ "legg": "leggings",
+ "valk": "valkyrie",
+ "hegemoney": "hegemony",
+ "gs": "giant's sword",
+ "fd": "final destination",
+ "ffd": "farming for dummies",
+ "mstar": "master star"
 }
