@@ -7236,5 +7236,25 @@
    "time": "30s",
    "tier": 6
   }
+ },
+ "T1 Nether Wart Hoe":{
+   "T1 Nether Wart Hoe":{
+     "Nether Wart":512,
+     "Mathematical Hoe Blueprint":1
+   }
+ },
+ "T2 Nether Wart Hoe":{
+   "T2 Nether Wart Hoe":{
+     "e nether wart":256,
+     "jacob's ticket":64,
+     "t1 nether wart hoe":1
+   }
+ },
+ "T3 Nether Wart Hoe":{
+   "T3 Nether Wart Hoe":{
+     "mutant nether wart":256,
+     "jacob's ticket":256,
+     "t2 nether wart hoe":1
+   }
  }
 }
