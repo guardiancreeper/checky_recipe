@@ -7256,5 +7256,85 @@
      "jacob's ticket":256,
      "t2 nether wart hoe":1
    }
+ },
+ "T1 Wheat Hoe":{
+   "T1 Wheat Hoe":{
+     "Wheat":512,
+     "Mathematical Hoe Blueprint":1
+   }
+},
+ "T2 Wheat Hoe":{
+  "T2 Wheat Hoe":{
+     "e hay bale ":256,
+     "jacob's ticket":64,
+     "t1 wheat hoe":1
+   }
+},
+ "T3 Wheat Hoe":{
+  "T3 Wheat Hoe":{
+     "tightly-tied hay bale":256,
+     "jacob's ticket":256,
+     "t2 wheat hoe":1
+   }
+ },
+ "T1 Carrot Hoe":{
+   "T1 Carrot Hoe":{
+     "Carrot":512,
+     "Mathematical Hoe Blueprint":1
+   }
+},
+ "T2 Carrot Hoe":{
+  "T2 Carrot Hoe":{
+     "e carrot ":256,
+     "jacob's ticket":64,
+     "t1 carrot hoe":1
+   }
+},
+ "T3 Carrot Hoe":{
+  "T3 Carrot Hoe":{
+     "e golden carrot":256,
+     "jacob's ticket":256,
+     "t2 carrot hoe":1
+   }
+ },
+ "T1 Sugar Cane Hoe":{
+   "T1 Sugar Cane Hoe":{
+     "Sugar Cane":512,
+     "Mathematical Hoe Blueprint":1
+   }
+},
+ "T2 Sugar Cane Hoe":{
+  "T2 Sugar Cane Hoe":{
+     "e sugar":256,
+     "jacob's ticket":64,
+     "t1 sugar cane hoe":1
+   }
+},
+ "T3 Sugar Cane Hoe":{
+  "T3 Sugar Cane Hoe":{
+     "e sugar cane":256,
+     "jacob's ticket":256,
+     "t2 sugar cane hoe":1
+   }
+},
+ "T1 Potato Hoe":{
+   "T1 Potato Hoe":{
+     "potato":512,
+     "Mathematical Hoe Blueprint":1
+   }
+},
+ "T2 Potato Hoe":{
+  "T2 Potato Hoe":{
+     "e potato ":256,
+     "jacob's ticket":64,
+     "t1 potato hoe":1
+   }
+},
+ "T3 Potato Hoe":{
+  "T3 Potato Hoe":{
+     "e baked potato":256,
+     "jacob's ticket":256,
+     "t2 potato hoe":1
+   }
  }
 }
